@@ -1,0 +1,1541 @@
+downtime_id,well_id,start_datetime,downtime_hours,downtime_reason
+1,W001,2020-09-08 01:00:00,6.9,Mechanical failure
+2,W001,2020-01-17 16:00:00,10.2,Mechanical failure
+3,W001,2020-12-17 16:00:00,14.8,Pressure issue
+4,W001,2020-08-31 14:00:00,4.6,Electrical issue
+5,W001,2021-05-18 17:00:00,7.8,Electrical issue
+6,W001,2021-06-22 14:00:00,5.9,Inspection
+7,W001,2021-02-19 22:00:00,9.2,Routine service
+8,W001,2021-10-19 03:00:00,2.7,Mechanical failure
+9,W001,2021-09-19 16:00:00,8.1,Electrical issue
+10,W001,2021-12-26 23:00:00,6.0,Inspection
+11,W001,2022-05-31 11:00:00,3.3,Electrical issue
+12,W001,2022-11-21 11:00:00,5.0,Electrical issue
+13,W001,2022-04-09 02:00:00,3.8,Unknown
+14,W001,2022-06-15 14:00:00,9.2,Routine service
+15,W001,2022-02-25 18:00:00,7.5,Pressure issue
+16,W001,2022-12-21 19:00:00,3.7,
+17,W001,2023-07-21 16:00:00,6.0,Routine service
+18,W001,2023-09-30 13:00:00,17.8,Routine service
+19,W001,2023-02-28 21:00:00,14.6,
+20,W001,2023-07-14 08:00:00,8.4,Mechanical failure
+21,W002,2020-03-03 16:00:00,10.3,Electrical issue
+22,W002,2020-11-23 13:00:00,9.4,Inspection
+23,W002,2020-07-27 18:00:00,8.7,
+24,W002,2020-06-01 08:00:00,7.2,Electrical issue
+25,W002,2020-03-14 19:00:00,13.4,Electrical issue
+26,W002,2020-12-21 18:00:00,3.6,Routine service
+27,W002,2020-07-09 14:00:00,7.4,Inspection
+28,W002,2021-10-17 03:00:00,6.3,Inspection
+29,W002,2021-04-16 19:00:00,4.6,Mechanical failure
+30,W002,2021-10-27 23:00:00,6.2,Electrical issue
+31,W002,2021-03-09 03:00:00,13.2,Electrical issue
+32,W002,2021-01-13 18:00:00,5.9,Inspection
+33,W002,2022-06-03 20:00:00,11.9,Inspection
+34,W002,2022-04-23 11:00:00,7.8,Mechanical failure
+35,W002,2022-10-14 08:00:00,3.7,Electrical issue
+36,W002,2022-01-24 03:00:00,3.3,Routine service
+37,W002,2023-12-09 16:00:00,11.4,Inspection
+38,W002,2023-02-23 11:00:00,6.1,Pressure issue
+39,W002,2023-06-04 08:00:00,5.5,Routine service
+40,W002,2023-04-01 04:00:00,7.2,Routine service
+41,W002,2023-03-24 10:00:00,14.4,Electrical issue
+42,W003,2020-06-05 09:00:00,7.2,Unknown
+43,W003,2020-12-11 18:00:00,1.7,Routine service
+44,W003,2020-09-29 20:00:00,14.1,Mechanical failure
+45,W003,2020-01-08 17:00:00,8.2,Mechanical failure
+46,W003,2020-07-21 22:00:00,12.5,Mechanical failure
+47,W003,2021-06-26 00:00:00,4.1,Inspection
+48,W003,2021-07-15 17:00:00,16.9,Mechanical failure
+49,W003,2021-06-19 07:00:00,7.8,Mechanical failure
+50,W003,2022-10-04 08:00:00,11.8,Inspection
+51,W003,2022-10-01 10:00:00,13.2,Electrical issue
+52,W003,2022-03-12 16:00:00,21.7,Mechanical failure
+53,W003,2022-12-17 01:00:00,9.1,Pressure issue
+54,W003,2023-04-17 09:00:00,10.4,Inspection
+55,W003,2023-10-13 21:00:00,8.6,Mechanical failure
+56,W003,2023-11-11 08:00:00,12.7,Inspection
+57,W003,2023-08-03 06:00:00,9.1,Inspection
+58,W004,2020-03-11 10:00:00,10.4,Mechanical failure
+59,W004,2020-12-11 15:00:00,15.7,Electrical issue
+60,W004,2020-01-01 23:00:00,6.2,Routine service
+61,W004,2021-11-02 00:00:00,6.9,Mechanical failure
+62,W004,2021-03-12 11:00:00,4.1,Inspection
+63,W004,2021-12-21 14:00:00,10.5,Mechanical failure
+64,W004,2021-02-01 04:00:00,2.2,Mechanical failure
+65,W004,2021-04-26 18:00:00,8.5,Pressure issue
+66,W004,2022-07-26 10:00:00,10.6,Electrical issue
+67,W004,2022-12-17 10:00:00,5.3,Inspection
+68,W004,2022-04-14 18:00:00,4.2,Inspection
+69,W004,2022-11-24 23:00:00,4.7,Mechanical failure
+70,W004,2022-03-08 01:00:00,7.9,Mechanical failure
+71,W004,2022-04-09 11:00:00,5.3,Mechanical failure
+72,W004,2022-12-29 12:00:00,17.6,Electrical issue
+73,W004,2023-03-15 07:00:00,9.0,Electrical issue
+74,W004,2023-07-01 20:00:00,8.4,Mechanical failure
+75,W004,2023-12-11 02:00:00,3.6,Electrical issue
+76,W004,2023-12-26 06:00:00,12.9,Inspection
+77,W005,2020-09-18 00:00:00,1.8,Mechanical failure
+78,W005,2020-05-14 09:00:00,2.9,Electrical issue
+79,W005,2020-09-06 19:00:00,4.7,Mechanical failure
+80,W005,2020-04-12 00:00:00,16.6,Mechanical failure
+81,W005,2020-10-17 20:00:00,8.3,Mechanical failure
+82,W005,2020-12-16 11:00:00,9.7,Inspection
+83,W005,2020-01-31 12:00:00,17.7,Mechanical failure
+84,W005,2021-03-19 04:00:00,4.2,Mechanical failure
+85,W005,2021-06-24 14:00:00,5.0,Mechanical failure
+86,W005,2021-03-03 21:00:00,19.8,Routine service
+87,W005,2021-04-28 13:00:00,10.0,Inspection
+88,W005,2021-01-15 21:00:00,11.9,Unknown
+89,W005,2021-04-26 02:00:00,2.0,Pressure issue
+90,W005,2021-09-10 10:00:00,11.3,Electrical issue
+91,W005,2022-06-07 08:00:00,12.2,Mechanical failure
+92,W005,2022-05-25 14:00:00,5.7,
+93,W005,2022-10-04 10:00:00,5.8,Mechanical failure
+94,W005,2023-03-10 11:00:00,5.6,Electrical issue
+95,W005,2023-10-19 00:00:00,4.7,Electrical issue
+96,W005,2023-01-14 05:00:00,12.4,Inspection
+97,W006,2020-09-06 02:00:00,20.6,Mechanical failure
+98,W006,2020-03-22 03:00:00,8.1,
+99,W006,2020-08-20 08:00:00,19.3,Electrical issue
+100,W006,2020-06-21 21:00:00,3.5,Mechanical failure
+101,W006,2020-02-12 23:00:00,10.6,Mechanical failure
+102,W006,2020-07-17 23:00:00,10.7,Pressure issue
+103,W006,2021-12-16 11:00:00,9.6,Routine service
+104,W006,2021-12-29 11:00:00,5.3,Inspection
+105,W006,2021-08-21 14:00:00,10.0,Inspection
+106,W006,2022-09-02 19:00:00,13.5,Inspection
+107,W006,2022-03-15 16:00:00,13.6,Inspection
+108,W006,2022-06-17 15:00:00,12.5,Inspection
+109,W006,2022-06-19 05:00:00,9.2,Inspection
+110,W006,2023-04-14 04:00:00,4.0,Mechanical failure
+111,W006,2023-03-28 07:00:00,8.0,Routine service
+112,W006,2023-01-17 05:00:00,4.8,Inspection
+113,W006,2023-07-26 10:00:00,20.2,Electrical issue
+114,W006,2023-06-22 04:00:00,4.2,Routine service
+115,W006,2023-12-27 08:00:00,14.1,Mechanical failure
+116,W006,2023-10-09 13:00:00,6.6,Pressure issue
+117,W007,2020-09-21 19:00:00,5.2,Electrical issue
+118,W007,2020-05-18 15:00:00,6.3,Pressure issue
+119,W007,2020-11-18 03:00:00,7.5,Inspection
+120,W007,2020-03-08 13:00:00,7.9,Routine service
+121,W007,2020-05-25 15:00:00,9.9,Electrical issue
+122,W007,2020-07-15 04:00:00,9.2,Electrical issue
+123,W007,2021-10-22 12:00:00,6.3,Routine service
+124,W007,2021-06-24 18:00:00,4.1,Mechanical failure
+125,W007,2021-03-03 09:00:00,7.8,Routine service
+126,W007,2022-08-10 01:00:00,7.6,Mechanical failure
+127,W007,2022-09-26 07:00:00,22.0,Electrical issue
+128,W007,2022-01-28 08:00:00,3.7,Inspection
+129,W007,2022-04-11 04:00:00,12.7,Mechanical failure
+130,W007,2022-11-08 23:00:00,5.2,Pressure issue
+131,W007,2022-04-13 12:00:00,22.0,Electrical issue
+132,W007,2022-12-26 23:00:00,6.2,Mechanical failure
+133,W007,2023-08-18 19:00:00,7.6,Inspection
+134,W007,2023-11-18 03:00:00,6.9,Inspection
+135,W007,2023-10-13 19:00:00,4.4,Pressure issue
+136,W007,2023-04-27 00:00:00,3.8,Electrical issue
+137,W007,2023-11-16 00:00:00,9.0,Electrical issue
+138,W008,2020-12-11 07:00:00,2.7,Routine service
+139,W008,2020-01-17 14:00:00,6.4,Electrical issue
+140,W008,2020-07-10 19:00:00,10.2,Mechanical failure
+141,W008,2020-08-05 22:00:00,9.2,Mechanical failure
+142,W008,2020-03-21 13:00:00,7.6,Pressure issue
+143,W008,2020-08-22 14:00:00,2.5,Pressure issue
+144,W008,2021-06-11 20:00:00,22.0,Routine service
+145,W008,2021-05-09 11:00:00,3.9,Mechanical failure
+146,W008,2021-03-29 17:00:00,5.8,Routine service
+147,W008,2021-03-14 14:00:00,10.6,Pressure issue
+148,W008,2021-08-02 19:00:00,10.5,Inspection
+149,W008,2022-01-19 00:00:00,6.8,Mechanical failure
+150,W008,2022-02-10 18:00:00,8.1,Electrical issue
+151,W008,2022-07-24 15:00:00,6.8,Routine service
+152,W008,2022-05-28 11:00:00,8.7,Pressure issue
+153,W008,2022-03-14 11:00:00,10.1,Mechanical failure
+154,W008,2023-05-12 10:00:00,3.6,Routine service
+155,W008,2023-07-21 09:00:00,4.9,Electrical issue
+156,W008,2023-03-22 05:00:00,3.6,Mechanical failure
+157,W008,2023-09-23 09:00:00,6.6,Inspection
+158,W008,2023-11-09 03:00:00,21.4,Pressure issue
+159,W008,2023-11-07 01:00:00,12.8,
+160,W008,2023-06-28 09:00:00,13.8,Electrical issue
+161,W009,2020-12-13 04:00:00,6.5,Pressure issue
+162,W009,2020-03-25 16:00:00,15.5,Mechanical failure
+163,W009,2020-09-26 03:00:00,3.9,Unknown
+164,W009,2020-02-23 16:00:00,11.6,Pressure issue
+165,W009,2020-02-22 23:00:00,3.5,
+166,W009,2021-06-24 17:00:00,7.0,Mechanical failure
+167,W009,2021-06-28 20:00:00,10.6,Inspection
+168,W009,2021-11-01 13:00:00,2.1,Unknown
+169,W009,2021-07-20 16:00:00,3.3,Mechanical failure
+170,W009,2021-07-07 05:00:00,12.0,Mechanical failure
+171,W009,2021-10-17 19:00:00,9.2,Mechanical failure
+172,W009,2021-10-10 10:00:00,10.7,Routine service
+173,W009,2022-02-17 23:00:00,12.8,Mechanical failure
+174,W009,2022-11-16 14:00:00,9.3,
+175,W009,2022-04-08 19:00:00,7.4,Unknown
+176,W009,2023-11-17 20:00:00,6.2,Routine service
+177,W009,2023-08-05 19:00:00,5.0,Routine service
+178,W009,2023-03-13 05:00:00,20.4,Mechanical failure
+179,W009,2023-11-03 00:00:00,4.9,Inspection
+180,W010,2020-02-27 17:00:00,7.4,Inspection
+181,W010,2020-02-02 03:00:00,20.3,Pressure issue
+182,W010,2020-04-22 19:00:00,6.5,Mechanical failure
+183,W010,2020-02-10 19:00:00,19.0,Electrical issue
+184,W010,2021-01-18 09:00:00,9.0,Routine service
+185,W010,2021-01-26 18:00:00,3.6,Mechanical failure
+186,W010,2021-07-02 15:00:00,11.3,Mechanical failure
+187,W010,2022-03-10 06:00:00,4.8,Mechanical failure
+188,W010,2022-07-22 20:00:00,9.2,Pressure issue
+189,W010,2022-08-29 13:00:00,6.7,Routine service
+190,W010,2022-08-12 20:00:00,9.5,Inspection
+191,W010,2022-07-23 17:00:00,6.2,Pressure issue
+192,W010,2022-05-25 00:00:00,7.6,Inspection
+193,W010,2023-08-06 04:00:00,11.8,Pressure issue
+194,W010,2023-09-14 14:00:00,13.5,Mechanical failure
+195,W010,2023-02-07 23:00:00,7.5,Electrical issue
+196,W010,2023-02-09 19:00:00,9.0,Electrical issue
+197,W011,2020-07-29 05:00:00,5.9,Inspection
+198,W011,2020-03-21 17:00:00,8.3,Pressure issue
+199,W011,2020-12-07 20:00:00,3.5,Inspection
+200,W011,2020-06-29 01:00:00,9.1,Pressure issue
+201,W011,2020-10-09 21:00:00,13.0,Routine service
+202,W011,2020-04-26 14:00:00,13.8,Mechanical failure
+203,W011,2021-09-15 22:00:00,5.1,Inspection
+204,W011,2021-12-11 18:00:00,14.1,Mechanical failure
+205,W011,2021-03-23 03:00:00,10.4,Inspection
+206,W011,2021-11-18 18:00:00,6.6,Inspection
+207,W011,2021-03-17 08:00:00,8.0,Pressure issue
+208,W011,2021-08-29 02:00:00,18.2,Mechanical failure
+209,W011,2021-06-28 08:00:00,8.3,Electrical issue
+210,W011,2022-08-04 12:00:00,10.3,Inspection
+211,W011,2022-04-04 15:00:00,1.9,Inspection
+212,W011,2022-03-15 20:00:00,12.2,Electrical issue
+213,W011,2022-01-06 13:00:00,8.5,Mechanical failure
+214,W011,2022-02-20 23:00:00,4.5,Electrical issue
+215,W011,2022-05-03 09:00:00,8.8,Routine service
+216,W011,2022-10-10 20:00:00,5.9,Routine service
+217,W011,2023-02-18 20:00:00,8.1,Mechanical failure
+218,W011,2023-04-08 19:00:00,7.7,Inspection
+219,W011,2023-03-25 07:00:00,10.8,Routine service
+220,W011,2023-05-10 05:00:00,3.0,Mechanical failure
+221,W011,2023-12-10 13:00:00,7.3,Inspection
+222,W012,2020-08-05 19:00:00,2.9,Inspection
+223,W012,2020-11-14 11:00:00,10.0,Mechanical failure
+224,W012,2020-07-02 13:00:00,9.9,Electrical issue
+225,W012,2020-04-13 20:00:00,6.8,Pressure issue
+226,W012,2020-05-19 01:00:00,3.8,Pressure issue
+227,W012,2020-01-10 19:00:00,6.7,Electrical issue
+228,W012,2021-10-16 06:00:00,19.8,Pressure issue
+229,W012,2021-08-14 01:00:00,12.1,Pressure issue
+230,W012,2021-05-29 00:00:00,9.9,Electrical issue
+231,W012,2021-06-02 23:00:00,9.4,Routine service
+232,W012,2021-08-19 22:00:00,9.5,Inspection
+233,W012,2022-01-14 11:00:00,8.1,Pressure issue
+234,W012,2022-02-09 07:00:00,6.7,Mechanical failure
+235,W012,2022-04-04 11:00:00,2.4,Mechanical failure
+236,W012,2022-02-19 20:00:00,5.1,Inspection
+237,W012,2022-08-31 11:00:00,9.8,Electrical issue
+238,W012,2022-03-15 19:00:00,12.9,Mechanical failure
+239,W012,2022-11-02 20:00:00,7.4,Inspection
+240,W012,2023-04-23 00:00:00,10.5,
+241,W012,2023-04-29 07:00:00,6.8,Mechanical failure
+242,W012,2023-03-20 08:00:00,22.0,Inspection
+243,W013,2020-01-21 11:00:00,12.5,Inspection
+244,W013,2020-04-14 10:00:00,6.7,Inspection
+245,W013,2020-06-11 13:00:00,16.8,Pressure issue
+246,W013,2021-05-28 13:00:00,18.3,Routine service
+247,W013,2021-11-26 07:00:00,9.9,Mechanical failure
+248,W013,2021-11-05 01:00:00,7.2,Pressure issue
+249,W013,2021-11-21 16:00:00,12.4,Routine service
+250,W013,2022-06-06 02:00:00,14.8,Mechanical failure
+251,W013,2022-08-18 19:00:00,7.3,Mechanical failure
+252,W013,2022-04-01 23:00:00,10.6,Routine service
+253,W013,2022-10-17 22:00:00,22.0,
+254,W013,2022-02-28 04:00:00,22.0,Mechanical failure
+255,W013,2022-11-17 18:00:00,4.9,Routine service
+256,W013,2023-07-14 01:00:00,8.0,Routine service
+257,W013,2023-06-01 16:00:00,19.1,Mechanical failure
+258,W013,2023-04-08 06:00:00,9.7,Pressure issue
+259,W013,2023-04-29 01:00:00,6.2,Inspection
+260,W013,2023-03-15 04:00:00,5.8,Routine service
+261,W013,2023-03-20 00:00:00,3.3,Electrical issue
+262,W014,2020-04-19 13:00:00,7.3,Routine service
+263,W014,2020-01-06 20:00:00,9.6,Mechanical failure
+264,W014,2020-01-10 06:00:00,13.9,
+265,W014,2020-06-08 00:00:00,12.8,Mechanical failure
+266,W014,2020-01-26 14:00:00,10.0,Mechanical failure
+267,W014,2020-10-26 10:00:00,6.6,Mechanical failure
+268,W014,2021-09-12 20:00:00,4.9,Mechanical failure
+269,W014,2021-07-24 07:00:00,7.1,Unknown
+270,W014,2021-03-28 06:00:00,13.5,Inspection
+271,W014,2021-05-13 02:00:00,4.0,Electrical issue
+272,W014,2021-11-12 14:00:00,7.9,Inspection
+273,W014,2021-12-09 05:00:00,13.1,Electrical issue
+274,W014,2021-07-29 01:00:00,3.1,Routine service
+275,W014,2022-08-27 14:00:00,6.8,Mechanical failure
+276,W014,2022-05-09 17:00:00,21.9,Routine service
+277,W014,2022-04-20 16:00:00,6.6,Pressure issue
+278,W014,2022-06-17 22:00:00,5.1,Electrical issue
+279,W014,2022-03-27 02:00:00,4.1,Electrical issue
+280,W014,2022-02-20 09:00:00,6.1,Pressure issue
+281,W014,2022-01-03 05:00:00,6.7,Electrical issue
+282,W014,2023-07-12 23:00:00,14.0,Pressure issue
+283,W014,2023-06-19 01:00:00,6.5,Inspection
+284,W014,2023-09-28 17:00:00,4.1,Mechanical failure
+285,W015,2020-09-28 01:00:00,12.3,Mechanical failure
+286,W015,2020-01-08 01:00:00,8.6,Mechanical failure
+287,W015,2020-04-16 11:00:00,10.1,Electrical issue
+288,W015,2020-07-10 01:00:00,6.8,Unknown
+289,W015,2021-02-21 03:00:00,10.4,Mechanical failure
+290,W015,2021-06-03 10:00:00,7.8,Routine service
+291,W015,2021-06-10 11:00:00,4.0,Unknown
+292,W015,2021-01-19 05:00:00,11.3,Inspection
+293,W015,2021-10-12 18:00:00,22.0,Mechanical failure
+294,W015,2021-11-24 02:00:00,6.8,Mechanical failure
+295,W015,2022-07-16 23:00:00,6.8,Unknown
+296,W015,2022-02-27 04:00:00,3.1,Pressure issue
+297,W015,2022-08-14 14:00:00,3.4,Mechanical failure
+298,W015,2023-05-25 08:00:00,10.2,Routine service
+299,W015,2023-11-04 03:00:00,7.9,Inspection
+300,W015,2023-10-03 06:00:00,9.2,Mechanical failure
+301,W015,2023-01-18 05:00:00,8.3,Electrical issue
+302,W015,2023-09-18 22:00:00,20.6,Mechanical failure
+303,W015,2023-07-07 05:00:00,6.1,Pressure issue
+304,W016,2020-08-21 20:00:00,20.6,Routine service
+305,W016,2020-02-01 16:00:00,11.0,Pressure issue
+306,W016,2020-10-31 18:00:00,2.6,Mechanical failure
+307,W016,2020-07-20 17:00:00,4.6,Electrical issue
+308,W016,2021-11-22 01:00:00,5.1,Electrical issue
+309,W016,2021-02-20 07:00:00,7.7,Electrical issue
+310,W016,2021-01-24 16:00:00,11.9,Inspection
+311,W016,2021-06-22 08:00:00,17.6,Electrical issue
+312,W016,2021-08-20 00:00:00,5.1,Pressure issue
+313,W016,2022-04-16 16:00:00,4.3,Routine service
+314,W016,2022-12-09 23:00:00,12.5,Mechanical failure
+315,W016,2022-09-20 17:00:00,6.1,Mechanical failure
+316,W016,2023-02-26 00:00:00,6.9,Pressure issue
+317,W016,2023-07-22 03:00:00,5.8,Mechanical failure
+318,W016,2023-05-31 06:00:00,22.0,Mechanical failure
+319,W016,2023-08-22 09:00:00,13.7,Electrical issue
+320,W016,2023-07-24 23:00:00,13.3,Inspection
+321,W017,2020-04-18 22:00:00,5.0,Routine service
+322,W017,2020-09-18 12:00:00,13.2,Pressure issue
+323,W017,2020-02-22 17:00:00,3.1,Electrical issue
+324,W017,2020-01-05 06:00:00,6.8,Electrical issue
+325,W017,2020-02-27 18:00:00,17.6,Routine service
+326,W017,2020-06-09 03:00:00,6.3,Electrical issue
+327,W017,2020-10-11 04:00:00,6.4,Pressure issue
+328,W017,2021-06-30 14:00:00,11.9,Mechanical failure
+329,W017,2021-04-30 03:00:00,4.9,Routine service
+330,W017,2021-11-06 06:00:00,9.1,Inspection
+331,W017,2022-06-15 20:00:00,7.7,Electrical issue
+332,W017,2022-06-30 15:00:00,12.2,Mechanical failure
+333,W017,2022-10-29 21:00:00,13.4,Routine service
+334,W017,2022-01-03 02:00:00,5.1,Electrical issue
+335,W017,2022-01-05 05:00:00,4.0,Routine service
+336,W017,2022-07-06 17:00:00,1.7,Inspection
+337,W017,2022-03-17 03:00:00,10.2,Electrical issue
+338,W017,2023-03-17 03:00:00,7.0,Inspection
+339,W017,2023-03-27 16:00:00,7.6,Inspection
+340,W017,2023-11-21 08:00:00,12.4,Electrical issue
+341,W017,2023-06-22 22:00:00,5.9,Electrical issue
+342,W017,2023-07-15 12:00:00,6.7,Electrical issue
+343,W017,2023-11-27 13:00:00,3.8,Mechanical failure
+344,W018,2020-06-25 23:00:00,13.0,Mechanical failure
+345,W018,2020-09-09 11:00:00,4.9,Mechanical failure
+346,W018,2020-03-19 18:00:00,8.8,Electrical issue
+347,W018,2020-04-08 21:00:00,7.1,Mechanical failure
+348,W018,2020-04-29 04:00:00,7.9,Electrical issue
+349,W018,2020-11-29 10:00:00,14.0,Inspection
+350,W018,2020-02-23 04:00:00,11.8,Mechanical failure
+351,W018,2021-05-12 02:00:00,7.6,Electrical issue
+352,W018,2021-11-25 17:00:00,4.1,Inspection
+353,W018,2021-04-05 23:00:00,11.2,
+354,W018,2021-01-13 15:00:00,11.1,Routine service
+355,W018,2022-11-27 18:00:00,3.7,Mechanical failure
+356,W018,2022-02-03 00:00:00,4.2,Mechanical failure
+357,W018,2022-05-28 11:00:00,1.7,Routine service
+358,W018,2022-11-14 14:00:00,13.4,Pressure issue
+359,W018,2023-04-10 02:00:00,17.6,Pressure issue
+360,W018,2023-09-22 10:00:00,4.2,Mechanical failure
+361,W018,2023-01-18 12:00:00,3.8,Mechanical failure
+362,W018,2023-09-13 01:00:00,6.3,Routine service
+363,W019,2020-01-15 02:00:00,18.1,Mechanical failure
+364,W019,2020-06-05 07:00:00,4.4,Mechanical failure
+365,W019,2020-05-02 19:00:00,14.7,Mechanical failure
+366,W019,2020-05-16 05:00:00,7.0,
+367,W019,2020-05-10 14:00:00,7.1,Mechanical failure
+368,W019,2020-12-15 20:00:00,7.6,Pressure issue
+369,W019,2020-09-16 05:00:00,8.9,Pressure issue
+370,W019,2021-09-27 09:00:00,4.5,Mechanical failure
+371,W019,2021-01-20 21:00:00,7.8,Pressure issue
+372,W019,2021-04-26 13:00:00,5.5,Pressure issue
+373,W019,2021-02-26 14:00:00,11.5,Mechanical failure
+374,W019,2021-09-29 22:00:00,6.4,Mechanical failure
+375,W019,2021-12-25 21:00:00,6.3,Electrical issue
+376,W019,2022-11-12 20:00:00,6.6,
+377,W019,2022-06-18 01:00:00,5.3,
+378,W019,2022-08-20 23:00:00,19.3,Inspection
+379,W019,2022-06-01 07:00:00,4.7,Routine service
+380,W019,2023-06-25 15:00:00,22.0,Mechanical failure
+381,W019,2023-11-02 19:00:00,16.8,Mechanical failure
+382,W019,2023-08-11 03:00:00,7.2,Inspection
+383,W019,2023-01-05 05:00:00,12.1,Mechanical failure
+384,W019,2023-12-12 20:00:00,11.7,Routine service
+385,W019,2023-03-22 10:00:00,7.4,Mechanical failure
+386,W019,2023-06-05 09:00:00,6.2,Inspection
+387,W020,2020-03-06 07:00:00,3.6,Unknown
+388,W020,2020-03-23 01:00:00,6.7,Mechanical failure
+389,W020,2020-12-09 01:00:00,4.3,Inspection
+390,W020,2020-09-13 23:00:00,10.4,Mechanical failure
+391,W020,2020-01-31 05:00:00,12.2,Mechanical failure
+392,W020,2020-11-21 16:00:00,22.0,Routine service
+393,W020,2021-05-30 07:00:00,9.3,Unknown
+394,W020,2021-07-14 04:00:00,4.4,Unknown
+395,W020,2021-02-27 07:00:00,6.2,Routine service
+396,W020,2021-05-07 20:00:00,3.2,Routine service
+397,W020,2022-04-24 08:00:00,12.9,Routine service
+398,W020,2022-09-13 16:00:00,3.6,Routine service
+399,W020,2022-12-18 01:00:00,3.5,Mechanical failure
+400,W020,2023-03-08 19:00:00,6.3,Electrical issue
+401,W020,2023-08-23 16:00:00,4.7,Inspection
+402,W020,2023-06-16 14:00:00,3.8,Pressure issue
+403,W020,2023-02-25 09:00:00,11.2,Pressure issue
+404,W020,2023-11-22 23:00:00,8.7,Pressure issue
+405,W021,2020-06-10 07:00:00,8.6,Pressure issue
+406,W021,2020-02-16 13:00:00,9.9,Pressure issue
+407,W021,2020-03-30 12:00:00,12.9,Mechanical failure
+408,W021,2021-06-03 08:00:00,7.2,Mechanical failure
+409,W021,2021-12-10 06:00:00,3.6,Electrical issue
+410,W021,2021-06-05 06:00:00,11.8,Routine service
+411,W021,2021-01-22 22:00:00,4.8,Pressure issue
+412,W021,2021-01-26 19:00:00,13.2,Inspection
+413,W021,2021-03-07 03:00:00,6.6,Pressure issue
+414,W021,2021-12-15 02:00:00,4.9,Electrical issue
+415,W021,2022-08-31 10:00:00,14.8,Routine service
+416,W021,2022-04-10 11:00:00,7.5,Electrical issue
+417,W021,2022-10-11 09:00:00,6.6,Routine service
+418,W021,2023-07-15 06:00:00,17.7,Unknown
+419,W021,2023-02-22 23:00:00,8.0,Mechanical failure
+420,W021,2023-02-04 00:00:00,4.1,Routine service
+421,W021,2023-06-15 12:00:00,9.5,Mechanical failure
+422,W021,2023-08-15 21:00:00,6.8,Routine service
+423,W021,2023-03-08 18:00:00,3.2,Routine service
+424,W021,2023-06-11 15:00:00,12.1,Pressure issue
+425,W022,2020-03-16 05:00:00,11.1,Pressure issue
+426,W022,2020-03-18 18:00:00,21.8,Unknown
+427,W022,2020-10-27 02:00:00,7.1,Mechanical failure
+428,W022,2020-11-29 08:00:00,14.7,Routine service
+429,W022,2020-05-03 03:00:00,5.3,Routine service
+430,W022,2020-07-11 08:00:00,4.6,Mechanical failure
+431,W022,2020-09-27 17:00:00,9.1,Electrical issue
+432,W022,2021-08-17 05:00:00,8.4,Mechanical failure
+433,W022,2021-08-11 15:00:00,7.8,Mechanical failure
+434,W022,2021-06-01 03:00:00,8.1,Inspection
+435,W022,2021-02-14 17:00:00,18.0,Pressure issue
+436,W022,2021-07-31 04:00:00,6.0,Inspection
+437,W022,2021-12-21 05:00:00,12.2,Routine service
+438,W022,2022-11-29 02:00:00,7.4,Electrical issue
+439,W022,2022-04-19 04:00:00,9.9,Electrical issue
+440,W022,2022-08-11 02:00:00,22.0,Inspection
+441,W022,2022-07-27 06:00:00,19.3,Routine service
+442,W022,2022-06-29 09:00:00,1.9,Routine service
+443,W022,2022-06-02 15:00:00,4.4,Inspection
+444,W022,2022-08-22 13:00:00,2.6,Mechanical failure
+445,W022,2023-06-29 11:00:00,10.6,Electrical issue
+446,W022,2023-07-21 07:00:00,17.3,Mechanical failure
+447,W022,2023-12-02 18:00:00,6.1,Routine service
+448,W022,2023-06-01 16:00:00,8.5,
+449,W022,2023-07-27 09:00:00,9.5,Pressure issue
+450,W023,2020-02-03 06:00:00,4.8,Pressure issue
+451,W023,2020-03-21 13:00:00,16.0,Inspection
+452,W023,2020-01-24 08:00:00,3.3,Inspection
+453,W023,2020-06-14 08:00:00,4.8,Inspection
+454,W023,2020-02-21 06:00:00,2.8,Pressure issue
+455,W023,2020-11-13 21:00:00,4.5,Inspection
+456,W023,2021-11-07 04:00:00,5.8,Inspection
+457,W023,2021-09-04 03:00:00,7.8,Mechanical failure
+458,W023,2021-08-29 05:00:00,16.9,Mechanical failure
+459,W023,2021-02-17 18:00:00,8.9,Inspection
+460,W023,2022-06-30 21:00:00,3.8,Electrical issue
+461,W023,2022-02-25 06:00:00,11.6,Mechanical failure
+462,W023,2022-10-28 20:00:00,6.8,Inspection
+463,W023,2022-05-23 16:00:00,6.5,Inspection
+464,W023,2023-11-09 12:00:00,22.0,Unknown
+465,W023,2023-08-25 23:00:00,19.9,Inspection
+466,W023,2023-01-06 02:00:00,7.5,Inspection
+467,W023,2023-10-25 19:00:00,11.1,Pressure issue
+468,W023,2023-09-09 14:00:00,4.2,Routine service
+469,W024,2020-06-20 17:00:00,2.5,Electrical issue
+470,W024,2020-03-11 09:00:00,9.7,Mechanical failure
+471,W024,2020-06-30 12:00:00,13.1,Mechanical failure
+472,W024,2021-10-07 08:00:00,22.0,Mechanical failure
+473,W024,2021-07-13 18:00:00,9.1,Mechanical failure
+474,W024,2021-09-26 10:00:00,7.1,Pressure issue
+475,W024,2022-09-16 06:00:00,5.2,Routine service
+476,W024,2022-11-04 04:00:00,4.7,Routine service
+477,W024,2022-06-30 14:00:00,5.4,Electrical issue
+478,W024,2022-11-23 22:00:00,13.3,Unknown
+479,W024,2022-09-21 00:00:00,12.2,Routine service
+480,W024,2022-07-12 19:00:00,8.4,Inspection
+481,W024,2023-10-03 00:00:00,3.0,Routine service
+482,W024,2023-01-14 07:00:00,14.5,Inspection
+483,W024,2023-01-03 18:00:00,5.3,Electrical issue
+484,W025,2020-09-23 14:00:00,22.0,Pressure issue
+485,W025,2020-02-24 12:00:00,4.4,Electrical issue
+486,W025,2020-06-11 03:00:00,4.5,Routine service
+487,W025,2020-08-27 17:00:00,8.3,Electrical issue
+488,W025,2020-06-05 12:00:00,21.7,Mechanical failure
+489,W025,2020-07-06 06:00:00,4.1,Mechanical failure
+490,W025,2020-09-19 03:00:00,9.7,
+491,W025,2021-10-30 18:00:00,22.0,Mechanical failure
+492,W025,2021-08-14 20:00:00,7.6,Mechanical failure
+493,W025,2021-06-01 13:00:00,22.0,
+494,W025,2021-11-06 04:00:00,6.3,Electrical issue
+495,W025,2022-01-08 00:00:00,7.8,Pressure issue
+496,W025,2022-03-19 21:00:00,5.0,Mechanical failure
+497,W025,2022-07-13 01:00:00,6.5,Electrical issue
+498,W025,2023-01-16 11:00:00,14.1,Pressure issue
+499,W025,2023-04-06 12:00:00,4.6,Inspection
+500,W025,2023-08-18 05:00:00,13.6,Unknown
+501,W025,2023-02-05 12:00:00,11.0,Mechanical failure
+502,W025,2023-01-26 19:00:00,12.2,Pressure issue
+503,W025,2023-10-28 04:00:00,9.5,Electrical issue
+504,W025,2023-10-24 07:00:00,6.5,Mechanical failure
+505,W026,2020-11-06 18:00:00,3.7,Electrical issue
+506,W026,2020-05-15 01:00:00,4.4,Pressure issue
+507,W026,2020-05-22 08:00:00,20.4,Pressure issue
+508,W026,2020-03-06 18:00:00,8.5,Inspection
+509,W026,2020-08-30 21:00:00,8.8,Pressure issue
+510,W026,2021-03-11 22:00:00,9.5,Mechanical failure
+511,W026,2021-01-15 09:00:00,9.4,Routine service
+512,W026,2021-01-06 00:00:00,4.5,Electrical issue
+513,W026,2021-05-17 16:00:00,4.9,Mechanical failure
+514,W026,2021-07-23 04:00:00,22.0,
+515,W026,2021-07-05 00:00:00,9.7,Mechanical failure
+516,W026,2022-02-03 10:00:00,5.3,Routine service
+517,W026,2022-10-12 00:00:00,15.8,Pressure issue
+518,W026,2022-09-08 14:00:00,22.0,Mechanical failure
+519,W026,2022-06-13 21:00:00,6.9,Mechanical failure
+520,W026,2022-11-15 23:00:00,9.5,Electrical issue
+521,W026,2022-06-03 03:00:00,15.7,Mechanical failure
+522,W026,2022-07-11 07:00:00,21.6,Electrical issue
+523,W026,2023-11-22 08:00:00,17.4,Electrical issue
+524,W026,2023-05-03 21:00:00,4.0,Mechanical failure
+525,W026,2023-03-08 05:00:00,7.7,Mechanical failure
+526,W026,2023-04-03 20:00:00,6.1,Inspection
+527,W026,2023-01-28 03:00:00,8.9,Inspection
+528,W026,2023-10-07 13:00:00,13.2,Pressure issue
+529,W026,2023-03-07 01:00:00,2.9,Mechanical failure
+530,W027,2020-07-10 07:00:00,17.6,Routine service
+531,W027,2020-11-24 23:00:00,10.3,Mechanical failure
+532,W027,2020-01-29 04:00:00,8.3,Pressure issue
+533,W027,2020-07-31 16:00:00,14.6,Inspection
+534,W027,2020-10-08 16:00:00,12.5,Pressure issue
+535,W027,2021-08-24 13:00:00,14.5,Mechanical failure
+536,W027,2021-01-19 10:00:00,11.7,Mechanical failure
+537,W027,2021-12-11 02:00:00,13.2,Pressure issue
+538,W027,2021-10-09 20:00:00,3.7,Electrical issue
+539,W027,2021-03-05 07:00:00,8.0,Electrical issue
+540,W027,2022-10-02 06:00:00,3.6,Routine service
+541,W027,2022-05-10 05:00:00,8.7,Mechanical failure
+542,W027,2022-01-26 10:00:00,7.6,Pressure issue
+543,W027,2022-12-22 03:00:00,7.2,Mechanical failure
+544,W027,2022-10-13 20:00:00,8.0,Electrical issue
+545,W027,2022-07-30 16:00:00,4.2,Mechanical failure
+546,W027,2023-06-16 16:00:00,13.5,Mechanical failure
+547,W027,2023-11-26 07:00:00,12.0,Pressure issue
+548,W027,2023-04-25 19:00:00,15.2,
+549,W028,2020-05-06 11:00:00,5.9,Pressure issue
+550,W028,2020-08-27 11:00:00,5.4,Unknown
+551,W028,2020-01-18 23:00:00,12.0,Mechanical failure
+552,W028,2020-12-11 10:00:00,4.6,Routine service
+553,W028,2020-03-28 13:00:00,6.6,Inspection
+554,W028,2020-11-05 03:00:00,12.3,Mechanical failure
+555,W028,2020-05-13 03:00:00,2.5,Routine service
+556,W028,2021-03-18 06:00:00,4.8,Mechanical failure
+557,W028,2021-08-15 06:00:00,9.7,Pressure issue
+558,W028,2021-10-28 03:00:00,8.2,Unknown
+559,W028,2021-09-21 02:00:00,6.3,Pressure issue
+560,W028,2022-06-19 09:00:00,12.5,Mechanical failure
+561,W028,2022-09-12 06:00:00,6.7,Mechanical failure
+562,W028,2022-05-27 21:00:00,8.4,Mechanical failure
+563,W028,2022-09-15 06:00:00,4.2,Mechanical failure
+564,W028,2022-08-27 16:00:00,1.5,Inspection
+565,W028,2022-01-08 16:00:00,3.9,Pressure issue
+566,W028,2023-07-02 22:00:00,10.4,Pressure issue
+567,W028,2023-02-11 14:00:00,13.1,
+568,W028,2023-05-10 08:00:00,15.9,Mechanical failure
+569,W029,2020-08-16 03:00:00,7.2,Inspection
+570,W029,2020-07-09 06:00:00,14.8,Mechanical failure
+571,W029,2020-10-25 07:00:00,6.5,Electrical issue
+572,W029,2020-02-06 20:00:00,5.1,Mechanical failure
+573,W029,2020-03-10 02:00:00,9.5,Routine service
+574,W029,2021-10-20 08:00:00,15.3,Routine service
+575,W029,2021-08-21 11:00:00,3.2,Pressure issue
+576,W029,2021-04-14 05:00:00,2.8,Routine service
+577,W029,2021-08-20 13:00:00,4.3,
+578,W029,2021-04-24 16:00:00,6.7,Inspection
+579,W029,2022-12-28 20:00:00,4.8,Electrical issue
+580,W029,2022-01-02 19:00:00,7.9,Electrical issue
+581,W029,2022-07-04 23:00:00,6.9,Unknown
+582,W029,2022-04-14 07:00:00,7.1,Pressure issue
+583,W029,2022-08-10 23:00:00,22.0,Unknown
+584,W029,2022-06-25 11:00:00,7.6,Mechanical failure
+585,W029,2023-04-25 06:00:00,9.4,Mechanical failure
+586,W029,2023-03-20 03:00:00,7.4,Routine service
+587,W029,2023-02-16 07:00:00,5.1,Pressure issue
+588,W029,2023-05-14 11:00:00,3.7,Electrical issue
+589,W029,2023-04-20 15:00:00,7.3,Routine service
+590,W030,2020-08-08 06:00:00,5.5,Inspection
+591,W030,2020-09-17 00:00:00,7.1,Mechanical failure
+592,W030,2020-02-10 10:00:00,13.2,Inspection
+593,W030,2020-02-15 08:00:00,7.0,Mechanical failure
+594,W030,2020-04-24 17:00:00,17.6,Inspection
+595,W030,2021-09-07 04:00:00,22.0,Routine service
+596,W030,2021-03-26 10:00:00,4.3,Inspection
+597,W030,2021-03-20 03:00:00,16.4,Routine service
+598,W030,2021-11-29 18:00:00,3.9,Mechanical failure
+599,W030,2021-01-15 12:00:00,12.7,Routine service
+600,W030,2022-01-06 01:00:00,11.4,Inspection
+601,W030,2022-09-13 23:00:00,5.9,Inspection
+602,W030,2022-10-20 21:00:00,8.4,Pressure issue
+603,W030,2022-11-27 17:00:00,2.9,Unknown
+604,W030,2022-03-03 06:00:00,7.6,Pressure issue
+605,W030,2022-06-15 11:00:00,3.5,Routine service
+606,W030,2023-03-14 21:00:00,22.0,Routine service
+607,W030,2023-11-13 14:00:00,6.2,Routine service
+608,W030,2023-03-03 11:00:00,3.7,Mechanical failure
+609,W030,2023-03-24 13:00:00,7.5,Pressure issue
+610,W030,2023-11-29 12:00:00,8.2,Inspection
+611,W030,2023-09-04 15:00:00,7.9,Mechanical failure
+612,W030,2023-02-05 02:00:00,7.6,Electrical issue
+613,W031,2020-01-03 13:00:00,6.9,Mechanical failure
+614,W031,2020-08-02 05:00:00,13.0,Electrical issue
+615,W031,2020-02-09 18:00:00,5.4,Mechanical failure
+616,W031,2020-06-25 16:00:00,8.1,Pressure issue
+617,W031,2020-12-07 20:00:00,4.9,Mechanical failure
+618,W031,2020-10-02 17:00:00,5.8,Electrical issue
+619,W031,2020-06-04 13:00:00,6.5,Electrical issue
+620,W031,2021-08-25 06:00:00,14.1,Routine service
+621,W031,2021-06-08 10:00:00,12.3,Electrical issue
+622,W031,2021-09-17 00:00:00,8.6,Inspection
+623,W031,2021-12-19 00:00:00,7.7,Inspection
+624,W031,2021-06-13 08:00:00,12.0,Routine service
+625,W031,2021-04-09 11:00:00,8.4,Routine service
+626,W031,2022-08-09 22:00:00,7.6,Inspection
+627,W031,2022-08-20 11:00:00,8.9,Mechanical failure
+628,W031,2022-12-08 23:00:00,3.7,Electrical issue
+629,W031,2022-08-15 04:00:00,16.1,Mechanical failure
+630,W031,2022-11-17 16:00:00,12.4,Inspection
+631,W031,2022-04-18 22:00:00,11.4,Electrical issue
+632,W031,2023-07-09 15:00:00,3.4,Electrical issue
+633,W031,2023-11-25 09:00:00,5.7,Electrical issue
+634,W031,2023-08-06 03:00:00,9.6,Mechanical failure
+635,W031,2023-02-21 01:00:00,7.1,Routine service
+636,W031,2023-03-15 05:00:00,3.7,
+637,W032,2020-01-24 12:00:00,10.3,Mechanical failure
+638,W032,2020-03-10 19:00:00,12.6,Pressure issue
+639,W032,2020-04-09 12:00:00,5.6,Mechanical failure
+640,W032,2020-10-08 22:00:00,13.5,Unknown
+641,W032,2020-09-23 01:00:00,9.9,Pressure issue
+642,W032,2021-08-21 20:00:00,13.0,Electrical issue
+643,W032,2021-03-03 02:00:00,10.8,Inspection
+644,W032,2021-12-22 06:00:00,8.7,Mechanical failure
+645,W032,2021-01-12 19:00:00,6.4,Pressure issue
+646,W032,2021-05-04 16:00:00,10.2,Mechanical failure
+647,W032,2021-04-11 04:00:00,5.4,Pressure issue
+648,W032,2022-05-15 02:00:00,12.3,Inspection
+649,W032,2022-08-31 06:00:00,10.4,Inspection
+650,W032,2022-09-12 16:00:00,6.0,Unknown
+651,W032,2022-03-13 16:00:00,5.4,Mechanical failure
+652,W032,2022-01-03 07:00:00,15.9,Routine service
+653,W032,2022-10-13 23:00:00,5.2,Unknown
+654,W032,2022-02-25 10:00:00,22.0,Mechanical failure
+655,W032,2023-09-18 04:00:00,10.2,Mechanical failure
+656,W032,2023-11-02 23:00:00,4.0,Mechanical failure
+657,W032,2023-12-31 17:00:00,8.6,Mechanical failure
+658,W032,2023-07-04 06:00:00,7.6,Routine service
+659,W032,2023-12-07 04:00:00,9.3,Unknown
+660,W032,2023-08-24 13:00:00,4.4,Routine service
+661,W032,2023-12-12 09:00:00,8.1,Mechanical failure
+662,W033,2020-07-04 06:00:00,5.3,Pressure issue
+663,W033,2020-01-28 13:00:00,8.7,Mechanical failure
+664,W033,2020-10-08 07:00:00,22.0,Mechanical failure
+665,W033,2021-06-11 04:00:00,2.5,Pressure issue
+666,W033,2021-10-05 18:00:00,6.2,Mechanical failure
+667,W033,2021-03-29 07:00:00,8.7,Inspection
+668,W033,2021-05-27 15:00:00,6.0,Routine service
+669,W033,2022-04-20 01:00:00,12.9,Unknown
+670,W033,2022-01-01 13:00:00,15.6,Routine service
+671,W033,2022-10-15 05:00:00,4.7,Mechanical failure
+672,W033,2022-09-01 18:00:00,7.4,Routine service
+673,W033,2023-11-06 22:00:00,8.6,Routine service
+674,W033,2023-12-19 05:00:00,3.6,Mechanical failure
+675,W033,2023-10-06 23:00:00,6.1,Routine service
+676,W033,2023-01-27 22:00:00,12.8,Routine service
+677,W033,2023-08-28 19:00:00,6.8,Mechanical failure
+678,W033,2023-12-20 14:00:00,15.6,Inspection
+679,W033,2023-12-01 07:00:00,3.8,Electrical issue
+680,W034,2020-01-19 20:00:00,22.0,Unknown
+681,W034,2020-03-03 04:00:00,7.2,Routine service
+682,W034,2020-02-09 00:00:00,7.2,
+683,W034,2021-05-06 16:00:00,16.1,Mechanical failure
+684,W034,2021-02-07 12:00:00,4.2,Mechanical failure
+685,W034,2021-09-18 14:00:00,17.3,Inspection
+686,W034,2022-03-11 12:00:00,14.1,Mechanical failure
+687,W034,2022-08-07 10:00:00,22.0,Routine service
+688,W034,2022-07-02 05:00:00,13.2,Mechanical failure
+689,W034,2022-12-05 17:00:00,6.6,Electrical issue
+690,W034,2022-08-26 09:00:00,6.6,Routine service
+691,W034,2023-04-29 09:00:00,7.4,Electrical issue
+692,W034,2023-01-09 09:00:00,5.1,Routine service
+693,W034,2023-01-11 18:00:00,14.0,Mechanical failure
+694,W034,2023-02-24 11:00:00,13.3,Inspection
+695,W034,2023-07-02 17:00:00,4.1,Mechanical failure
+696,W034,2023-03-16 11:00:00,15.4,Mechanical failure
+697,W034,2023-02-20 06:00:00,5.0,Routine service
+698,W035,2020-12-06 05:00:00,4.4,Electrical issue
+699,W035,2020-03-15 13:00:00,10.5,Inspection
+700,W035,2020-08-31 01:00:00,22.0,Mechanical failure
+701,W035,2020-09-17 07:00:00,3.3,Mechanical failure
+702,W035,2021-06-29 11:00:00,10.8,Inspection
+703,W035,2021-01-01 20:00:00,2.6,Routine service
+704,W035,2021-04-23 01:00:00,11.4,Routine service
+705,W035,2021-03-12 01:00:00,17.9,Inspection
+706,W035,2022-04-25 07:00:00,9.6,Routine service
+707,W035,2022-05-14 14:00:00,16.7,Inspection
+708,W035,2022-12-16 20:00:00,16.3,Pressure issue
+709,W035,2022-08-10 07:00:00,9.0,Mechanical failure
+710,W035,2022-11-05 04:00:00,6.1,Pressure issue
+711,W035,2023-06-28 03:00:00,17.6,Routine service
+712,W035,2023-05-21 17:00:00,4.9,Routine service
+713,W035,2023-12-23 14:00:00,12.2,
+714,W035,2023-08-30 20:00:00,6.1,Inspection
+715,W036,2020-09-09 19:00:00,16.2,Routine service
+716,W036,2020-01-24 21:00:00,4.8,Inspection
+717,W036,2020-08-05 04:00:00,10.0,Mechanical failure
+718,W036,2020-12-19 23:00:00,10.0,Inspection
+719,W036,2020-12-09 21:00:00,8.8,Electrical issue
+720,W036,2020-08-11 00:00:00,12.9,Mechanical failure
+721,W036,2020-08-09 00:00:00,3.0,Inspection
+722,W036,2021-02-25 03:00:00,12.6,Mechanical failure
+723,W036,2021-11-13 06:00:00,7.5,
+724,W036,2021-12-23 04:00:00,5.6,Inspection
+725,W036,2021-03-18 20:00:00,9.2,Routine service
+726,W036,2021-06-14 09:00:00,4.4,Pressure issue
+727,W036,2021-09-10 04:00:00,6.4,
+728,W036,2022-07-02 20:00:00,3.2,Pressure issue
+729,W036,2022-08-24 12:00:00,11.0,Routine service
+730,W036,2022-09-05 20:00:00,6.0,Inspection
+731,W036,2023-04-23 10:00:00,5.4,Mechanical failure
+732,W036,2023-11-05 01:00:00,7.2,Electrical issue
+733,W036,2023-08-04 19:00:00,3.5,Mechanical failure
+734,W036,2023-07-14 01:00:00,15.9,Mechanical failure
+735,W036,2023-03-17 16:00:00,7.5,Electrical issue
+736,W037,2020-03-17 16:00:00,4.7,Pressure issue
+737,W037,2020-06-24 07:00:00,12.4,Mechanical failure
+738,W037,2020-11-11 16:00:00,5.9,Unknown
+739,W037,2020-01-28 20:00:00,9.5,Routine service
+740,W037,2020-07-24 13:00:00,7.9,Electrical issue
+741,W037,2020-04-27 03:00:00,8.9,Pressure issue
+742,W037,2021-03-29 22:00:00,2.6,Mechanical failure
+743,W037,2021-10-14 05:00:00,5.6,Pressure issue
+744,W037,2021-10-30 14:00:00,10.9,Mechanical failure
+745,W037,2021-07-25 08:00:00,7.0,Routine service
+746,W037,2021-11-09 04:00:00,12.1,Mechanical failure
+747,W037,2022-01-10 00:00:00,6.8,Pressure issue
+748,W037,2022-04-11 01:00:00,5.8,Pressure issue
+749,W037,2022-09-05 12:00:00,7.9,Pressure issue
+750,W037,2023-03-16 16:00:00,9.0,Pressure issue
+751,W037,2023-07-22 23:00:00,6.5,Routine service
+752,W037,2023-10-17 11:00:00,4.8,Inspection
+753,W037,2023-03-01 05:00:00,3.5,Pressure issue
+754,W037,2023-12-21 02:00:00,4.8,Mechanical failure
+755,W037,2023-12-25 00:00:00,4.6,Mechanical failure
+756,W038,2020-08-31 04:00:00,7.2,Inspection
+757,W038,2020-04-29 19:00:00,13.1,Routine service
+758,W038,2020-07-10 07:00:00,8.8,Routine service
+759,W038,2021-11-26 04:00:00,18.0,Pressure issue
+760,W038,2021-05-27 00:00:00,10.0,Mechanical failure
+761,W038,2021-04-10 09:00:00,14.8,Mechanical failure
+762,W038,2021-02-25 04:00:00,6.1,Inspection
+763,W038,2021-06-09 15:00:00,10.0,Unknown
+764,W038,2021-02-11 13:00:00,15.4,Inspection
+765,W038,2022-03-14 03:00:00,16.7,Pressure issue
+766,W038,2022-12-11 06:00:00,9.2,Mechanical failure
+767,W038,2022-06-02 13:00:00,12.9,Routine service
+768,W038,2022-12-22 22:00:00,6.0,Inspection
+769,W038,2022-03-09 11:00:00,6.6,Routine service
+770,W038,2022-01-17 18:00:00,8.4,Pressure issue
+771,W038,2022-03-25 23:00:00,6.9,Inspection
+772,W038,2023-05-12 23:00:00,10.6,Electrical issue
+773,W038,2023-07-05 08:00:00,11.4,Routine service
+774,W038,2023-09-26 22:00:00,3.2,Mechanical failure
+775,W038,2023-10-12 06:00:00,6.3,Electrical issue
+776,W038,2023-10-15 10:00:00,7.6,Mechanical failure
+777,W038,2023-01-17 17:00:00,5.6,Mechanical failure
+778,W039,2020-12-21 23:00:00,5.3,Unknown
+779,W039,2020-09-30 20:00:00,3.7,Electrical issue
+780,W039,2020-05-12 17:00:00,17.5,Electrical issue
+781,W039,2020-04-18 05:00:00,4.0,Mechanical failure
+782,W039,2021-06-29 17:00:00,4.9,Pressure issue
+783,W039,2021-04-06 15:00:00,10.8,Mechanical failure
+784,W039,2021-07-01 14:00:00,4.7,Pressure issue
+785,W039,2021-12-11 21:00:00,7.8,Inspection
+786,W039,2021-12-09 12:00:00,4.7,Electrical issue
+787,W039,2021-12-31 11:00:00,16.0,Routine service
+788,W039,2022-11-14 14:00:00,14.2,Routine service
+789,W039,2022-02-28 00:00:00,11.9,Pressure issue
+790,W039,2022-01-05 13:00:00,11.1,Pressure issue
+791,W039,2022-02-19 14:00:00,16.5,
+792,W039,2022-06-30 14:00:00,4.1,Mechanical failure
+793,W039,2023-12-03 15:00:00,7.8,Inspection
+794,W039,2023-06-19 13:00:00,11.7,Routine service
+795,W039,2023-04-04 20:00:00,2.9,Mechanical failure
+796,W039,2023-03-11 00:00:00,2.5,Pressure issue
+797,W040,2020-03-31 03:00:00,9.6,Electrical issue
+798,W040,2020-07-02 16:00:00,6.8,Routine service
+799,W040,2020-12-25 03:00:00,7.1,Inspection
+800,W040,2020-05-10 18:00:00,5.4,Electrical issue
+801,W040,2020-08-13 13:00:00,3.4,Inspection
+802,W040,2020-01-16 09:00:00,8.2,Inspection
+803,W040,2020-05-19 23:00:00,6.2,Mechanical failure
+804,W040,2021-11-13 17:00:00,6.0,Pressure issue
+805,W040,2021-09-04 10:00:00,21.0,Pressure issue
+806,W040,2021-02-11 17:00:00,2.4,Mechanical failure
+807,W040,2021-04-04 04:00:00,4.7,Mechanical failure
+808,W040,2021-01-25 20:00:00,9.4,Mechanical failure
+809,W040,2021-01-13 08:00:00,5.2,Mechanical failure
+810,W040,2022-03-14 00:00:00,5.1,Inspection
+811,W040,2022-01-27 17:00:00,9.4,Mechanical failure
+812,W040,2022-08-11 15:00:00,8.8,Inspection
+813,W040,2022-02-28 20:00:00,4.1,Pressure issue
+814,W040,2022-05-19 21:00:00,2.6,Inspection
+815,W040,2023-04-16 12:00:00,9.3,Pressure issue
+816,W040,2023-09-08 15:00:00,12.4,Electrical issue
+817,W040,2023-07-04 20:00:00,7.6,Electrical issue
+818,W040,2023-03-02 01:00:00,11.3,Mechanical failure
+819,W040,2023-11-03 23:00:00,17.4,
+820,W041,2020-09-13 16:00:00,11.8,Mechanical failure
+821,W041,2020-06-19 19:00:00,6.5,Electrical issue
+822,W041,2020-02-25 18:00:00,7.6,Pressure issue
+823,W041,2020-11-01 00:00:00,3.4,Inspection
+824,W041,2020-03-10 00:00:00,12.5,Mechanical failure
+825,W041,2020-01-29 18:00:00,2.3,Routine service
+826,W041,2020-08-12 16:00:00,7.3,Pressure issue
+827,W041,2021-08-19 12:00:00,12.5,Routine service
+828,W041,2021-11-19 04:00:00,6.0,Electrical issue
+829,W041,2021-02-21 19:00:00,8.3,Inspection
+830,W041,2021-01-18 11:00:00,6.2,Electrical issue
+831,W041,2021-05-24 07:00:00,5.4,Routine service
+832,W041,2021-02-03 13:00:00,7.2,Inspection
+833,W041,2022-11-23 11:00:00,22.0,Routine service
+834,W041,2022-05-03 07:00:00,8.6,
+835,W041,2022-05-08 21:00:00,4.7,Electrical issue
+836,W041,2022-07-19 23:00:00,4.4,Inspection
+837,W041,2022-01-19 10:00:00,15.6,Inspection
+838,W041,2022-10-29 18:00:00,6.9,Routine service
+839,W041,2023-05-05 01:00:00,11.7,Inspection
+840,W041,2023-09-10 03:00:00,3.5,Pressure issue
+841,W041,2023-02-18 10:00:00,6.1,Electrical issue
+842,W041,2023-10-23 13:00:00,11.9,Electrical issue
+843,W041,2023-09-07 10:00:00,12.1,Inspection
+844,W041,2023-04-17 02:00:00,13.8,Mechanical failure
+845,W041,2023-09-24 23:00:00,10.9,
+846,W042,2020-10-16 16:00:00,5.5,Mechanical failure
+847,W042,2020-11-11 04:00:00,5.2,Routine service
+848,W042,2020-07-28 03:00:00,14.9,Inspection
+849,W042,2020-04-02 17:00:00,6.6,Mechanical failure
+850,W042,2020-07-06 16:00:00,5.3,Mechanical failure
+851,W042,2021-08-29 08:00:00,5.5,Inspection
+852,W042,2021-07-04 00:00:00,7.8,Electrical issue
+853,W042,2021-05-12 10:00:00,8.0,Electrical issue
+854,W042,2021-06-24 19:00:00,4.2,Unknown
+855,W042,2022-09-26 06:00:00,5.8,Mechanical failure
+856,W042,2022-05-09 15:00:00,17.9,Routine service
+857,W042,2022-11-26 07:00:00,3.1,Mechanical failure
+858,W042,2022-05-10 15:00:00,6.5,Pressure issue
+859,W042,2023-11-28 21:00:00,4.0,Inspection
+860,W042,2023-06-27 12:00:00,7.3,Mechanical failure
+861,W042,2023-11-25 02:00:00,7.1,Routine service
+862,W042,2023-12-03 21:00:00,3.4,Mechanical failure
+863,W042,2023-12-18 04:00:00,10.9,Routine service
+864,W043,2020-02-07 02:00:00,9.1,Mechanical failure
+865,W043,2020-11-28 01:00:00,2.3,Mechanical failure
+866,W043,2020-06-13 13:00:00,14.7,Mechanical failure
+867,W043,2020-02-03 17:00:00,6.6,Mechanical failure
+868,W043,2020-08-01 20:00:00,8.6,Routine service
+869,W043,2020-09-07 07:00:00,4.4,Routine service
+870,W043,2020-11-23 08:00:00,9.1,Pressure issue
+871,W043,2021-02-28 21:00:00,4.7,Unknown
+872,W043,2021-12-08 14:00:00,8.5,Mechanical failure
+873,W043,2021-06-02 22:00:00,11.3,Electrical issue
+874,W043,2021-06-24 13:00:00,12.5,
+875,W043,2022-04-29 01:00:00,3.5,Electrical issue
+876,W043,2022-09-14 12:00:00,6.7,Mechanical failure
+877,W043,2022-01-03 23:00:00,19.1,Routine service
+878,W043,2022-01-04 20:00:00,4.0,Electrical issue
+879,W043,2022-12-30 02:00:00,7.9,Mechanical failure
+880,W043,2022-09-04 05:00:00,3.7,Routine service
+881,W043,2022-07-13 11:00:00,14.8,Electrical issue
+882,W043,2023-03-09 05:00:00,4.9,Mechanical failure
+883,W043,2023-11-27 10:00:00,3.9,Routine service
+884,W043,2023-08-23 22:00:00,11.4,Pressure issue
+885,W043,2023-10-15 23:00:00,22.0,Electrical issue
+886,W043,2023-02-03 05:00:00,15.4,Electrical issue
+887,W044,2020-06-29 23:00:00,13.3,Routine service
+888,W044,2020-07-31 04:00:00,6.0,Pressure issue
+889,W044,2020-12-19 10:00:00,16.0,Inspection
+890,W044,2020-04-29 00:00:00,6.2,Electrical issue
+891,W044,2020-10-23 19:00:00,8.2,Pressure issue
+892,W044,2021-09-15 12:00:00,15.7,Mechanical failure
+893,W044,2021-11-10 11:00:00,22.0,Routine service
+894,W044,2021-12-02 04:00:00,9.4,
+895,W044,2021-07-29 11:00:00,4.7,Electrical issue
+896,W044,2021-07-22 15:00:00,7.9,Inspection
+897,W044,2022-03-15 08:00:00,11.7,Mechanical failure
+898,W044,2022-11-20 19:00:00,11.3,Inspection
+899,W044,2022-01-09 18:00:00,2.9,Unknown
+900,W044,2022-12-02 11:00:00,6.2,Mechanical failure
+901,W044,2023-10-28 08:00:00,5.4,
+902,W044,2023-08-21 01:00:00,7.0,Mechanical failure
+903,W044,2023-06-29 23:00:00,6.0,Inspection
+904,W044,2023-06-04 00:00:00,3.6,Pressure issue
+905,W044,2023-03-11 11:00:00,8.5,Routine service
+906,W045,2020-06-27 22:00:00,5.1,Electrical issue
+907,W045,2020-01-02 20:00:00,3.6,Routine service
+908,W045,2020-11-01 20:00:00,6.3,Routine service
+909,W045,2021-07-10 04:00:00,15.3,Inspection
+910,W045,2021-09-04 06:00:00,9.1,Inspection
+911,W045,2021-03-28 17:00:00,16.5,Routine service
+912,W045,2021-06-19 20:00:00,18.5,
+913,W045,2022-01-23 01:00:00,6.2,Mechanical failure
+914,W045,2022-03-04 05:00:00,14.7,
+915,W045,2022-12-19 17:00:00,13.0,Electrical issue
+916,W045,2022-10-29 14:00:00,20.2,Mechanical failure
+917,W045,2023-06-28 16:00:00,3.9,Pressure issue
+918,W045,2023-01-02 10:00:00,13.1,Mechanical failure
+919,W045,2023-11-06 11:00:00,22.0,Mechanical failure
+920,W045,2023-10-16 17:00:00,5.9,Pressure issue
+921,W046,2020-12-04 13:00:00,9.2,Electrical issue
+922,W046,2020-01-07 15:00:00,4.0,Mechanical failure
+923,W046,2020-10-14 11:00:00,7.9,Inspection
+924,W046,2021-08-02 23:00:00,10.3,Mechanical failure
+925,W046,2021-09-14 02:00:00,10.6,Mechanical failure
+926,W046,2021-08-21 22:00:00,15.9,Routine service
+927,W046,2021-11-11 18:00:00,22.0,Routine service
+928,W046,2021-11-12 12:00:00,6.1,Routine service
+929,W046,2021-08-05 04:00:00,7.1,Inspection
+930,W046,2022-02-15 03:00:00,10.5,Mechanical failure
+931,W046,2022-03-12 22:00:00,9.3,Inspection
+932,W046,2022-05-25 12:00:00,4.4,Mechanical failure
+933,W046,2022-10-21 19:00:00,12.0,Pressure issue
+934,W046,2022-06-03 23:00:00,10.8,Electrical issue
+935,W046,2022-07-17 16:00:00,4.5,Pressure issue
+936,W046,2023-09-21 13:00:00,10.3,Mechanical failure
+937,W046,2023-02-12 04:00:00,13.2,Mechanical failure
+938,W046,2023-02-27 07:00:00,10.5,Routine service
+939,W046,2023-10-27 21:00:00,8.5,Electrical issue
+940,W046,2023-07-29 17:00:00,6.7,Mechanical failure
+941,W047,2020-12-28 17:00:00,3.5,Pressure issue
+942,W047,2020-11-12 06:00:00,15.9,Routine service
+943,W047,2020-08-07 13:00:00,5.2,Electrical issue
+944,W047,2020-04-21 00:00:00,5.8,Pressure issue
+945,W047,2021-09-17 11:00:00,11.8,Mechanical failure
+946,W047,2021-07-04 04:00:00,3.4,Mechanical failure
+947,W047,2021-05-12 04:00:00,3.7,Unknown
+948,W047,2021-04-19 23:00:00,5.3,Mechanical failure
+949,W047,2021-01-23 20:00:00,8.0,Routine service
+950,W047,2021-03-19 07:00:00,3.1,Routine service
+951,W047,2021-10-21 14:00:00,15.1,Pressure issue
+952,W047,2022-06-30 05:00:00,6.9,Routine service
+953,W047,2022-08-24 14:00:00,4.3,Electrical issue
+954,W047,2022-05-07 03:00:00,6.9,Electrical issue
+955,W047,2022-03-24 07:00:00,5.7,
+956,W047,2023-04-15 19:00:00,3.0,Pressure issue
+957,W047,2023-07-17 12:00:00,5.1,Routine service
+958,W047,2023-07-03 02:00:00,4.9,Routine service
+959,W047,2023-06-10 04:00:00,13.9,Mechanical failure
+960,W047,2023-12-16 13:00:00,11.5,Pressure issue
+961,W048,2020-10-25 02:00:00,9.4,Inspection
+962,W048,2020-08-04 01:00:00,7.9,Pressure issue
+963,W048,2020-11-08 08:00:00,5.1,Routine service
+964,W048,2020-08-21 23:00:00,4.4,Routine service
+965,W048,2021-07-12 16:00:00,2.9,Electrical issue
+966,W048,2021-06-10 13:00:00,5.3,Routine service
+967,W048,2021-10-04 12:00:00,6.1,Mechanical failure
+968,W048,2021-07-20 20:00:00,6.9,Routine service
+969,W048,2022-05-09 22:00:00,10.5,Mechanical failure
+970,W048,2022-01-23 09:00:00,2.9,Electrical issue
+971,W048,2022-03-29 10:00:00,7.1,Inspection
+972,W048,2022-04-27 03:00:00,6.6,Routine service
+973,W048,2022-02-21 01:00:00,11.5,Electrical issue
+974,W048,2022-02-23 10:00:00,5.7,Electrical issue
+975,W048,2022-10-01 17:00:00,10.1,Routine service
+976,W048,2023-05-08 13:00:00,6.7,Mechanical failure
+977,W048,2023-11-29 16:00:00,9.2,Pressure issue
+978,W048,2023-11-04 23:00:00,16.8,Inspection
+979,W048,2023-03-27 16:00:00,4.1,Unknown
+980,W048,2023-04-26 07:00:00,4.9,Routine service
+981,W048,2023-12-12 07:00:00,11.7,Unknown
+982,W049,2020-06-01 14:00:00,5.5,Electrical issue
+983,W049,2020-03-29 20:00:00,2.8,Inspection
+984,W049,2020-03-13 09:00:00,9.6,Pressure issue
+985,W049,2020-12-15 11:00:00,8.6,Mechanical failure
+986,W049,2020-07-06 05:00:00,9.6,Routine service
+987,W049,2021-04-16 22:00:00,6.1,Inspection
+988,W049,2021-06-30 06:00:00,6.0,Inspection
+989,W049,2021-10-20 02:00:00,7.5,Unknown
+990,W049,2021-04-18 22:00:00,8.8,Inspection
+991,W049,2021-09-13 13:00:00,18.1,Inspection
+992,W049,2022-04-26 09:00:00,5.5,Pressure issue
+993,W049,2022-04-05 16:00:00,16.1,Pressure issue
+994,W049,2022-11-11 13:00:00,11.7,Electrical issue
+995,W049,2022-02-26 12:00:00,5.3,Inspection
+996,W049,2023-09-09 12:00:00,18.9,Mechanical failure
+997,W049,2023-10-05 13:00:00,10.8,Electrical issue
+998,W049,2023-07-30 02:00:00,6.1,Inspection
+999,W050,2020-12-27 09:00:00,6.5,Routine service
+1000,W050,2020-05-02 01:00:00,4.0,Electrical issue
+1001,W050,2020-12-06 02:00:00,11.0,Mechanical failure
+1002,W050,2021-04-18 08:00:00,22.0,Inspection
+1003,W050,2021-05-07 20:00:00,3.6,Electrical issue
+1004,W050,2021-04-07 06:00:00,22.0,Pressure issue
+1005,W050,2021-01-01 13:00:00,5.4,Mechanical failure
+1006,W050,2021-06-09 14:00:00,4.8,Routine service
+1007,W050,2021-01-17 22:00:00,7.8,Inspection
+1008,W050,2021-11-28 17:00:00,11.5,Electrical issue
+1009,W050,2022-09-10 12:00:00,17.2,Mechanical failure
+1010,W050,2022-12-23 20:00:00,3.2,Mechanical failure
+1011,W050,2022-11-11 05:00:00,9.7,Mechanical failure
+1012,W050,2022-03-04 04:00:00,8.6,
+1013,W050,2022-10-01 13:00:00,6.6,Mechanical failure
+1014,W050,2023-05-03 05:00:00,8.3,Mechanical failure
+1015,W050,2023-01-26 14:00:00,8.1,Mechanical failure
+1016,W050,2023-01-08 20:00:00,9.1,Pressure issue
+1017,W050,2023-04-21 18:00:00,7.5,Routine service
+1018,W051,2020-08-24 09:00:00,8.2,Mechanical failure
+1019,W051,2020-08-26 05:00:00,19.4,Mechanical failure
+1020,W051,2020-07-30 23:00:00,7.4,Electrical issue
+1021,W051,2020-02-22 14:00:00,7.2,
+1022,W051,2020-12-15 19:00:00,7.7,Mechanical failure
+1023,W051,2020-04-29 04:00:00,3.4,Electrical issue
+1024,W051,2020-05-28 15:00:00,9.2,Unknown
+1025,W051,2021-03-02 13:00:00,5.7,Routine service
+1026,W051,2021-01-26 18:00:00,3.1,Mechanical failure
+1027,W051,2021-04-09 16:00:00,7.0,Routine service
+1028,W051,2021-04-14 19:00:00,9.5,Mechanical failure
+1029,W051,2021-08-21 06:00:00,12.8,Pressure issue
+1030,W051,2021-05-15 09:00:00,8.6,Inspection
+1031,W051,2021-09-14 01:00:00,6.8,Mechanical failure
+1032,W051,2022-05-21 12:00:00,6.8,Routine service
+1033,W051,2022-12-10 21:00:00,2.7,Pressure issue
+1034,W051,2022-02-24 05:00:00,8.8,Pressure issue
+1035,W051,2022-07-13 05:00:00,10.9,Inspection
+1036,W051,2023-04-02 15:00:00,20.1,Routine service
+1037,W051,2023-03-21 15:00:00,7.7,Electrical issue
+1038,W051,2023-03-26 17:00:00,2.9,Electrical issue
+1039,W051,2023-02-13 14:00:00,6.5,Inspection
+1040,W051,2023-03-06 13:00:00,11.5,Unknown
+1041,W051,2023-10-27 08:00:00,4.1,Pressure issue
+1042,W051,2023-05-09 08:00:00,5.1,Electrical issue
+1043,W052,2020-11-05 09:00:00,8.5,Routine service
+1044,W052,2020-10-18 04:00:00,10.1,Pressure issue
+1045,W052,2020-02-29 13:00:00,8.6,Mechanical failure
+1046,W052,2020-08-19 04:00:00,12.9,Mechanical failure
+1047,W052,2021-08-27 21:00:00,19.9,Pressure issue
+1048,W052,2021-02-23 21:00:00,7.0,Inspection
+1049,W052,2021-09-11 00:00:00,5.2,Electrical issue
+1050,W052,2021-10-13 12:00:00,7.9,Mechanical failure
+1051,W052,2021-11-26 23:00:00,6.4,Inspection
+1052,W052,2021-11-27 03:00:00,9.1,Mechanical failure
+1053,W052,2022-01-14 16:00:00,6.2,Electrical issue
+1054,W052,2022-03-09 23:00:00,16.7,Inspection
+1055,W052,2022-07-21 01:00:00,6.0,Routine service
+1056,W052,2022-11-11 18:00:00,12.3,Pressure issue
+1057,W052,2022-09-08 20:00:00,4.8,Mechanical failure
+1058,W052,2023-07-15 06:00:00,5.4,
+1059,W052,2023-07-10 07:00:00,4.8,Mechanical failure
+1060,W052,2023-05-01 07:00:00,9.5,Pressure issue
+1061,W052,2023-05-04 00:00:00,9.0,Inspection
+1062,W052,2023-05-08 00:00:00,16.0,
+1063,W052,2023-07-03 16:00:00,4.2,Mechanical failure
+1064,W053,2020-05-08 00:00:00,8.7,Electrical issue
+1065,W053,2020-08-15 14:00:00,3.1,Mechanical failure
+1066,W053,2020-01-02 18:00:00,12.6,Mechanical failure
+1067,W053,2020-11-09 20:00:00,9.6,Electrical issue
+1068,W053,2020-08-07 13:00:00,7.8,Pressure issue
+1069,W053,2021-01-15 06:00:00,11.8,Mechanical failure
+1070,W053,2021-10-27 06:00:00,7.5,Pressure issue
+1071,W053,2021-04-27 11:00:00,7.5,Mechanical failure
+1072,W053,2021-12-06 01:00:00,6.3,Electrical issue
+1073,W053,2022-03-04 21:00:00,7.4,Mechanical failure
+1074,W053,2022-11-06 15:00:00,4.2,Pressure issue
+1075,W053,2022-10-04 10:00:00,4.7,Electrical issue
+1076,W053,2022-04-28 19:00:00,7.3,Routine service
+1077,W053,2022-06-18 19:00:00,7.4,
+1078,W053,2023-11-30 19:00:00,8.9,Inspection
+1079,W053,2023-10-09 01:00:00,7.4,Mechanical failure
+1080,W053,2023-01-25 05:00:00,4.8,Routine service
+1081,W053,2023-12-30 18:00:00,8.9,Mechanical failure
+1082,W054,2020-11-22 14:00:00,4.8,Pressure issue
+1083,W054,2020-10-16 03:00:00,10.0,Routine service
+1084,W054,2020-05-31 13:00:00,19.4,Mechanical failure
+1085,W054,2020-07-16 04:00:00,8.9,Routine service
+1086,W054,2020-06-26 22:00:00,13.9,Inspection
+1087,W054,2021-05-16 01:00:00,11.2,Mechanical failure
+1088,W054,2021-04-01 06:00:00,7.4,Mechanical failure
+1089,W054,2021-01-24 12:00:00,9.5,Unknown
+1090,W054,2021-07-16 19:00:00,5.7,Unknown
+1091,W054,2021-12-25 05:00:00,4.2,Electrical issue
+1092,W054,2022-10-22 19:00:00,6.3,Routine service
+1093,W054,2022-10-30 11:00:00,16.6,Inspection
+1094,W054,2022-06-27 16:00:00,10.9,Routine service
+1095,W054,2022-02-20 05:00:00,2.1,Pressure issue
+1096,W054,2022-10-21 16:00:00,4.5,Mechanical failure
+1097,W054,2022-01-16 10:00:00,5.7,Mechanical failure
+1098,W054,2023-06-24 01:00:00,3.6,Pressure issue
+1099,W054,2023-01-06 10:00:00,4.0,Inspection
+1100,W054,2023-05-22 06:00:00,4.8,Unknown
+1101,W054,2023-09-16 07:00:00,13.4,Routine service
+1102,W054,2023-08-15 00:00:00,3.7,Routine service
+1103,W054,2023-06-21 01:00:00,22.0,Mechanical failure
+1104,W055,2020-06-04 22:00:00,5.9,Pressure issue
+1105,W055,2020-07-27 20:00:00,4.1,Electrical issue
+1106,W055,2020-07-08 05:00:00,13.0,Routine service
+1107,W055,2020-03-12 17:00:00,9.4,Mechanical failure
+1108,W055,2020-08-20 08:00:00,4.7,Mechanical failure
+1109,W055,2020-04-12 23:00:00,9.9,Routine service
+1110,W055,2020-09-16 12:00:00,19.9,Routine service
+1111,W055,2021-05-07 04:00:00,12.0,Routine service
+1112,W055,2021-02-01 08:00:00,17.3,Electrical issue
+1113,W055,2021-09-03 03:00:00,8.9,Routine service
+1114,W055,2021-08-20 07:00:00,8.0,Mechanical failure
+1115,W055,2021-09-24 06:00:00,5.7,Mechanical failure
+1116,W055,2021-12-07 22:00:00,8.0,Pressure issue
+1117,W055,2021-09-01 20:00:00,6.9,Routine service
+1118,W055,2022-07-06 04:00:00,13.9,Pressure issue
+1119,W055,2022-11-10 20:00:00,5.6,Electrical issue
+1120,W055,2022-01-09 15:00:00,5.5,Unknown
+1121,W055,2022-07-09 17:00:00,3.7,Routine service
+1122,W055,2022-08-11 04:00:00,18.6,Mechanical failure
+1123,W055,2022-08-22 06:00:00,9.5,Mechanical failure
+1124,W055,2022-01-12 02:00:00,9.5,Pressure issue
+1125,W055,2023-12-31 01:00:00,22.0,Mechanical failure
+1126,W055,2023-01-14 14:00:00,6.6,Mechanical failure
+1127,W055,2023-12-04 14:00:00,5.4,Pressure issue
+1128,W055,2023-05-20 14:00:00,6.0,Routine service
+1129,W055,2023-03-06 17:00:00,6.4,Mechanical failure
+1130,W055,2023-02-16 19:00:00,5.7,Mechanical failure
+1131,W055,2023-11-26 06:00:00,17.7,Inspection
+1132,W056,2020-08-28 04:00:00,3.9,Pressure issue
+1133,W056,2020-07-26 22:00:00,17.5,Routine service
+1134,W056,2020-03-03 11:00:00,14.7,Inspection
+1135,W056,2021-01-13 05:00:00,7.3,Mechanical failure
+1136,W056,2021-05-04 14:00:00,10.4,Electrical issue
+1137,W056,2021-12-25 04:00:00,8.3,Inspection
+1138,W056,2021-12-18 23:00:00,4.8,Electrical issue
+1139,W056,2021-09-22 14:00:00,15.4,Mechanical failure
+1140,W056,2021-09-27 05:00:00,2.9,Electrical issue
+1141,W056,2022-03-27 12:00:00,8.1,Inspection
+1142,W056,2022-10-24 11:00:00,7.5,Inspection
+1143,W056,2022-01-09 00:00:00,3.1,Electrical issue
+1144,W056,2022-12-24 23:00:00,9.0,Electrical issue
+1145,W056,2022-03-19 04:00:00,8.2,Mechanical failure
+1146,W056,2022-01-29 19:00:00,7.3,Mechanical failure
+1147,W056,2022-07-27 11:00:00,5.5,Mechanical failure
+1148,W056,2023-06-26 11:00:00,11.2,Routine service
+1149,W056,2023-11-02 22:00:00,11.9,Inspection
+1150,W056,2023-05-22 18:00:00,4.9,Inspection
+1151,W056,2023-06-02 16:00:00,13.1,Pressure issue
+1152,W056,2023-01-03 05:00:00,8.9,Pressure issue
+1153,W057,2020-06-02 11:00:00,3.3,Inspection
+1154,W057,2020-04-11 12:00:00,22.0,Electrical issue
+1155,W057,2020-12-26 22:00:00,5.3,Pressure issue
+1156,W057,2020-09-07 07:00:00,5.7,Inspection
+1157,W057,2021-01-13 04:00:00,8.4,Mechanical failure
+1158,W057,2021-02-09 08:00:00,14.4,Inspection
+1159,W057,2021-09-19 15:00:00,4.2,Inspection
+1160,W057,2021-08-15 08:00:00,6.4,Electrical issue
+1161,W057,2021-04-11 12:00:00,3.5,Inspection
+1162,W057,2021-10-04 18:00:00,3.8,Routine service
+1163,W057,2022-12-24 05:00:00,14.8,Unknown
+1164,W057,2022-05-23 03:00:00,15.4,Pressure issue
+1165,W057,2022-03-20 10:00:00,17.0,Mechanical failure
+1166,W057,2022-12-12 22:00:00,18.8,Mechanical failure
+1167,W057,2022-09-20 03:00:00,6.9,Pressure issue
+1168,W057,2022-12-25 18:00:00,4.5,Pressure issue
+1169,W057,2022-07-03 12:00:00,4.1,Electrical issue
+1170,W057,2023-05-07 09:00:00,18.2,Inspection
+1171,W057,2023-03-26 09:00:00,9.4,Unknown
+1172,W057,2023-01-01 14:00:00,7.4,Inspection
+1173,W057,2023-09-23 18:00:00,13.8,
+1174,W057,2023-02-27 20:00:00,19.7,Electrical issue
+1175,W058,2020-07-02 05:00:00,6.2,Electrical issue
+1176,W058,2020-04-13 03:00:00,12.5,Pressure issue
+1177,W058,2020-01-13 14:00:00,11.6,Mechanical failure
+1178,W058,2020-03-02 11:00:00,11.5,Electrical issue
+1179,W058,2020-01-30 21:00:00,6.0,Pressure issue
+1180,W058,2021-01-14 04:00:00,22.0,Mechanical failure
+1181,W058,2021-03-24 12:00:00,10.6,Mechanical failure
+1182,W058,2021-02-20 08:00:00,7.2,Inspection
+1183,W058,2021-02-26 21:00:00,7.0,Inspection
+1184,W058,2021-05-16 00:00:00,7.2,Pressure issue
+1185,W058,2021-07-29 21:00:00,3.9,Unknown
+1186,W058,2022-11-11 08:00:00,11.8,Mechanical failure
+1187,W058,2022-08-24 00:00:00,15.3,Mechanical failure
+1188,W058,2022-05-25 04:00:00,7.8,Unknown
+1189,W058,2022-10-13 23:00:00,6.6,Pressure issue
+1190,W058,2022-09-03 15:00:00,6.0,Mechanical failure
+1191,W058,2023-05-15 14:00:00,4.3,Pressure issue
+1192,W058,2023-09-14 15:00:00,18.3,Pressure issue
+1193,W058,2023-05-21 07:00:00,3.8,Unknown
+1194,W058,2023-05-16 17:00:00,4.9,Inspection
+1195,W059,2020-04-23 12:00:00,3.5,Mechanical failure
+1196,W059,2020-04-29 19:00:00,7.6,Mechanical failure
+1197,W059,2020-12-02 23:00:00,12.0,Routine service
+1198,W059,2020-02-21 00:00:00,6.6,Mechanical failure
+1199,W059,2021-05-03 03:00:00,2.4,Mechanical failure
+1200,W059,2021-06-12 02:00:00,3.5,Electrical issue
+1201,W059,2021-11-26 04:00:00,4.8,Mechanical failure
+1202,W059,2021-05-31 16:00:00,7.6,Pressure issue
+1203,W059,2021-07-09 22:00:00,6.1,Routine service
+1204,W059,2022-02-13 04:00:00,12.1,Unknown
+1205,W059,2022-11-06 05:00:00,4.5,Inspection
+1206,W059,2022-10-03 01:00:00,4.6,Routine service
+1207,W059,2022-08-22 19:00:00,6.2,Electrical issue
+1208,W059,2022-02-16 23:00:00,6.9,Electrical issue
+1209,W059,2022-08-24 04:00:00,11.7,Electrical issue
+1210,W059,2022-01-11 01:00:00,4.0,Pressure issue
+1211,W059,2023-01-11 16:00:00,12.7,Inspection
+1212,W059,2023-04-30 07:00:00,6.5,Mechanical failure
+1213,W059,2023-03-08 16:00:00,12.7,Inspection
+1214,W060,2020-07-06 05:00:00,15.2,Unknown
+1215,W060,2020-09-24 22:00:00,8.7,Mechanical failure
+1216,W060,2020-05-18 16:00:00,6.1,Routine service
+1217,W060,2020-07-04 14:00:00,6.7,Unknown
+1218,W060,2020-07-19 02:00:00,7.8,Routine service
+1219,W060,2020-11-01 03:00:00,8.0,Unknown
+1220,W060,2020-11-03 05:00:00,7.8,Inspection
+1221,W060,2021-04-26 05:00:00,13.7,Unknown
+1222,W060,2021-06-02 05:00:00,4.8,Mechanical failure
+1223,W060,2021-05-25 07:00:00,9.2,Routine service
+1224,W060,2021-08-23 07:00:00,8.1,Mechanical failure
+1225,W060,2021-01-07 17:00:00,8.6,Routine service
+1226,W060,2021-09-03 12:00:00,6.4,Mechanical failure
+1227,W060,2021-07-06 01:00:00,8.4,Unknown
+1228,W060,2022-04-08 21:00:00,11.6,Mechanical failure
+1229,W060,2022-08-16 13:00:00,10.7,Inspection
+1230,W060,2022-01-28 01:00:00,5.9,Electrical issue
+1231,W060,2022-07-11 16:00:00,16.6,Electrical issue
+1232,W060,2022-11-11 05:00:00,7.7,Inspection
+1233,W060,2022-08-13 21:00:00,9.6,Electrical issue
+1234,W060,2022-04-15 01:00:00,17.0,Mechanical failure
+1235,W060,2023-03-24 00:00:00,11.3,Electrical issue
+1236,W060,2023-10-10 08:00:00,3.8,Electrical issue
+1237,W060,2023-05-11 05:00:00,9.7,Mechanical failure
+1238,W060,2023-12-14 09:00:00,5.1,Mechanical failure
+1239,W060,2023-02-28 00:00:00,5.8,Mechanical failure
+1240,W061,2020-11-04 14:00:00,13.1,Mechanical failure
+1241,W061,2020-09-28 13:00:00,6.5,Routine service
+1242,W061,2020-09-08 21:00:00,12.9,Electrical issue
+1243,W061,2021-10-05 08:00:00,16.4,Electrical issue
+1244,W061,2021-01-10 17:00:00,5.5,Electrical issue
+1245,W061,2021-03-02 15:00:00,7.2,Pressure issue
+1246,W061,2021-07-13 08:00:00,5.8,Mechanical failure
+1247,W061,2022-11-20 23:00:00,14.2,Electrical issue
+1248,W061,2022-11-16 13:00:00,8.6,Electrical issue
+1249,W061,2022-02-05 21:00:00,4.3,Mechanical failure
+1250,W061,2023-05-02 05:00:00,12.9,Mechanical failure
+1251,W061,2023-11-17 09:00:00,5.4,
+1252,W061,2023-08-09 18:00:00,3.1,Mechanical failure
+1253,W061,2023-08-02 07:00:00,13.0,Electrical issue
+1254,W061,2023-07-26 13:00:00,10.3,Mechanical failure
+1255,W061,2023-07-22 23:00:00,22.0,Inspection
+1256,W061,2023-07-20 05:00:00,6.9,Routine service
+1257,W062,2020-10-13 06:00:00,7.6,Routine service
+1258,W062,2020-10-22 22:00:00,4.3,Mechanical failure
+1259,W062,2020-01-27 22:00:00,6.6,Pressure issue
+1260,W062,2021-12-12 16:00:00,4.3,Electrical issue
+1261,W062,2021-09-15 15:00:00,5.1,Mechanical failure
+1262,W062,2021-04-02 01:00:00,8.7,Mechanical failure
+1263,W062,2021-11-29 15:00:00,2.9,Routine service
+1264,W062,2022-10-19 19:00:00,11.0,Routine service
+1265,W062,2022-04-04 18:00:00,10.5,Routine service
+1266,W062,2022-01-10 16:00:00,10.1,Pressure issue
+1267,W062,2022-02-03 20:00:00,9.3,Mechanical failure
+1268,W062,2022-11-03 01:00:00,3.6,Mechanical failure
+1269,W062,2022-08-03 22:00:00,18.9,Routine service
+1270,W062,2023-03-03 22:00:00,4.3,Inspection
+1271,W062,2023-05-29 09:00:00,7.0,Mechanical failure
+1272,W062,2023-02-06 09:00:00,12.3,Routine service
+1273,W062,2023-10-17 10:00:00,7.2,Pressure issue
+1274,W062,2023-03-14 18:00:00,7.5,Mechanical failure
+1275,W063,2020-11-21 00:00:00,13.3,Mechanical failure
+1276,W063,2020-08-05 22:00:00,3.3,Electrical issue
+1277,W063,2020-06-23 07:00:00,5.2,
+1278,W063,2020-09-27 08:00:00,7.2,Mechanical failure
+1279,W063,2020-06-12 22:00:00,8.5,
+1280,W063,2021-10-07 04:00:00,15.7,Mechanical failure
+1281,W063,2021-10-27 07:00:00,10.1,Mechanical failure
+1282,W063,2021-10-18 22:00:00,8.4,Pressure issue
+1283,W063,2021-04-18 19:00:00,8.3,Routine service
+1284,W063,2021-04-04 07:00:00,7.3,Electrical issue
+1285,W063,2021-12-11 00:00:00,13.0,Routine service
+1286,W063,2022-01-19 11:00:00,16.8,Inspection
+1287,W063,2022-11-25 02:00:00,5.2,Mechanical failure
+1288,W063,2022-12-02 15:00:00,9.7,Mechanical failure
+1289,W063,2022-08-04 08:00:00,10.7,Routine service
+1290,W063,2022-10-10 13:00:00,19.1,Mechanical failure
+1291,W063,2022-03-31 14:00:00,16.9,Inspection
+1292,W063,2023-12-08 02:00:00,11.7,Pressure issue
+1293,W063,2023-04-09 13:00:00,4.0,Mechanical failure
+1294,W063,2023-04-03 23:00:00,10.3,Routine service
+1295,W063,2023-01-16 00:00:00,2.8,Mechanical failure
+1296,W063,2023-03-24 21:00:00,14.3,Routine service
+1297,W063,2023-05-29 10:00:00,18.0,Mechanical failure
+1298,W063,2023-07-04 08:00:00,12.1,Routine service
+1299,W064,2020-12-02 12:00:00,6.8,Pressure issue
+1300,W064,2020-10-03 02:00:00,10.9,Mechanical failure
+1301,W064,2020-03-07 07:00:00,5.7,Inspection
+1302,W064,2020-09-15 11:00:00,10.7,Unknown
+1303,W064,2020-06-10 22:00:00,2.5,Routine service
+1304,W064,2020-05-06 10:00:00,5.5,Inspection
+1305,W064,2021-04-25 19:00:00,7.4,Routine service
+1306,W064,2021-06-15 09:00:00,6.3,Mechanical failure
+1307,W064,2021-01-31 06:00:00,4.9,Mechanical failure
+1308,W064,2021-03-26 22:00:00,9.4,Routine service
+1309,W064,2022-09-11 21:00:00,5.8,Routine service
+1310,W064,2022-12-27 14:00:00,6.0,Electrical issue
+1311,W064,2022-09-16 22:00:00,5.3,Mechanical failure
+1312,W064,2022-01-21 00:00:00,6.7,Routine service
+1313,W064,2022-04-17 21:00:00,4.8,Electrical issue
+1314,W064,2022-07-19 08:00:00,9.3,Mechanical failure
+1315,W064,2023-02-14 00:00:00,5.6,Pressure issue
+1316,W064,2023-12-16 09:00:00,10.3,Mechanical failure
+1317,W064,2023-11-18 08:00:00,8.3,Electrical issue
+1318,W064,2023-05-20 12:00:00,9.3,Routine service
+1319,W064,2023-03-20 05:00:00,16.1,Routine service
+1320,W064,2023-01-14 21:00:00,6.3,Electrical issue
+1321,W065,2020-02-25 16:00:00,14.7,Routine service
+1322,W065,2020-07-23 23:00:00,3.8,Routine service
+1323,W065,2020-01-10 18:00:00,10.7,Mechanical failure
+1324,W065,2021-04-23 16:00:00,5.2,
+1325,W065,2021-12-08 17:00:00,9.1,
+1326,W065,2021-12-14 04:00:00,5.7,Pressure issue
+1327,W065,2021-07-29 13:00:00,4.4,Inspection
+1328,W065,2021-09-07 21:00:00,3.5,Routine service
+1329,W065,2021-05-01 16:00:00,3.6,Inspection
+1330,W065,2022-02-12 03:00:00,8.4,Mechanical failure
+1331,W065,2022-04-04 18:00:00,3.5,Mechanical failure
+1332,W065,2022-12-26 04:00:00,7.3,Routine service
+1333,W065,2023-12-30 21:00:00,5.1,Electrical issue
+1334,W065,2023-09-10 13:00:00,16.6,Inspection
+1335,W065,2023-04-14 16:00:00,7.2,Electrical issue
+1336,W065,2023-10-21 18:00:00,11.3,Electrical issue
+1337,W065,2023-07-21 22:00:00,4.6,Electrical issue
+1338,W065,2023-12-13 20:00:00,10.7,Mechanical failure
+1339,W066,2020-09-28 23:00:00,3.2,Electrical issue
+1340,W066,2020-05-10 04:00:00,9.3,Routine service
+1341,W066,2020-05-28 01:00:00,5.7,Routine service
+1342,W066,2020-07-17 23:00:00,13.9,Pressure issue
+1343,W066,2020-08-01 07:00:00,22.0,Inspection
+1344,W066,2020-12-28 05:00:00,9.8,Electrical issue
+1345,W066,2021-11-08 11:00:00,16.0,Inspection
+1346,W066,2021-12-15 04:00:00,10.0,Mechanical failure
+1347,W066,2021-02-16 05:00:00,8.3,Mechanical failure
+1348,W066,2021-05-06 21:00:00,5.1,Mechanical failure
+1349,W066,2022-04-23 22:00:00,11.3,Electrical issue
+1350,W066,2022-07-14 21:00:00,11.6,Pressure issue
+1351,W066,2022-09-12 10:00:00,5.1,Electrical issue
+1352,W066,2022-06-07 13:00:00,9.7,Mechanical failure
+1353,W066,2022-05-30 02:00:00,8.2,Pressure issue
+1354,W066,2023-05-05 12:00:00,13.2,Inspection
+1355,W066,2023-01-02 19:00:00,7.4,Routine service
+1356,W066,2023-10-20 10:00:00,9.9,Inspection
+1357,W066,2023-07-15 06:00:00,5.8,Routine service
+1358,W067,2020-05-08 03:00:00,9.4,Inspection
+1359,W067,2020-05-13 22:00:00,5.1,Inspection
+1360,W067,2020-05-03 05:00:00,4.1,Pressure issue
+1361,W067,2020-07-07 13:00:00,7.0,Mechanical failure
+1362,W067,2020-05-02 20:00:00,4.5,Unknown
+1363,W067,2020-04-13 15:00:00,19.2,Routine service
+1364,W067,2020-02-22 23:00:00,6.7,
+1365,W067,2021-11-14 15:00:00,4.7,Mechanical failure
+1366,W067,2021-07-06 02:00:00,4.6,Mechanical failure
+1367,W067,2021-01-18 09:00:00,8.6,Electrical issue
+1368,W067,2022-04-05 01:00:00,7.9,Inspection
+1369,W067,2022-09-14 09:00:00,22.0,Inspection
+1370,W067,2022-05-28 13:00:00,7.0,Unknown
+1371,W067,2022-06-27 15:00:00,13.9,Routine service
+1372,W067,2022-02-14 07:00:00,7.0,Inspection
+1373,W067,2023-06-01 11:00:00,13.7,Inspection
+1374,W067,2023-02-02 20:00:00,6.9,Mechanical failure
+1375,W067,2023-11-26 13:00:00,13.4,Mechanical failure
+1376,W067,2023-12-10 04:00:00,7.0,Mechanical failure
+1377,W068,2020-04-05 09:00:00,16.0,Inspection
+1378,W068,2020-01-24 19:00:00,8.5,Mechanical failure
+1379,W068,2020-08-23 07:00:00,8.4,Pressure issue
+1380,W068,2020-09-15 15:00:00,11.8,Inspection
+1381,W068,2021-10-17 20:00:00,7.7,Pressure issue
+1382,W068,2021-11-04 14:00:00,14.1,Electrical issue
+1383,W068,2021-07-08 04:00:00,17.1,Electrical issue
+1384,W068,2021-10-20 19:00:00,9.0,Inspection
+1385,W068,2021-05-02 02:00:00,12.7,Inspection
+1386,W068,2021-04-15 15:00:00,4.5,Inspection
+1387,W068,2022-07-10 14:00:00,4.5,
+1388,W068,2022-08-07 00:00:00,6.7,Inspection
+1389,W068,2022-01-29 11:00:00,7.2,Routine service
+1390,W068,2022-06-24 12:00:00,11.3,Electrical issue
+1391,W068,2022-06-17 17:00:00,9.8,Electrical issue
+1392,W068,2022-03-08 11:00:00,4.5,Inspection
+1393,W068,2023-01-01 00:00:00,5.3,Mechanical failure
+1394,W068,2023-05-29 17:00:00,22.0,Routine service
+1395,W068,2023-11-29 02:00:00,11.1,Pressure issue
+1396,W068,2023-12-02 16:00:00,8.6,Pressure issue
+1397,W068,2023-12-04 17:00:00,6.0,Mechanical failure
+1398,W068,2023-04-25 06:00:00,6.2,Mechanical failure
+1399,W069,2020-06-10 05:00:00,9.6,Mechanical failure
+1400,W069,2020-10-01 07:00:00,11.3,Routine service
+1401,W069,2020-04-18 20:00:00,8.2,Inspection
+1402,W069,2020-08-03 08:00:00,4.9,Mechanical failure
+1403,W069,2020-08-28 04:00:00,9.5,Routine service
+1404,W069,2021-06-21 12:00:00,4.6,Routine service
+1405,W069,2021-03-03 15:00:00,8.6,Electrical issue
+1406,W069,2021-08-17 01:00:00,13.5,
+1407,W069,2021-11-05 13:00:00,7.2,Pressure issue
+1408,W069,2021-11-02 18:00:00,4.0,Routine service
+1409,W069,2022-03-12 01:00:00,4.4,Mechanical failure
+1410,W069,2022-09-05 08:00:00,12.6,Unknown
+1411,W069,2022-02-12 14:00:00,11.2,Mechanical failure
+1412,W069,2022-10-15 19:00:00,3.3,Electrical issue
+1413,W069,2022-05-09 01:00:00,15.2,Mechanical failure
+1414,W069,2023-05-02 02:00:00,5.6,Mechanical failure
+1415,W069,2023-08-13 19:00:00,3.1,Mechanical failure
+1416,W069,2023-03-07 04:00:00,10.9,
+1417,W070,2020-09-17 14:00:00,14.1,Mechanical failure
+1418,W070,2020-12-06 00:00:00,3.1,Pressure issue
+1419,W070,2020-10-09 07:00:00,4.6,Unknown
+1420,W070,2020-01-31 08:00:00,22.0,Mechanical failure
+1421,W070,2020-12-12 22:00:00,7.1,Routine service
+1422,W070,2020-08-13 06:00:00,14.0,Inspection
+1423,W070,2020-03-09 09:00:00,15.6,Routine service
+1424,W070,2021-05-28 05:00:00,3.4,Mechanical failure
+1425,W070,2021-11-17 05:00:00,1.5,Inspection
+1426,W070,2021-02-12 14:00:00,3.3,Routine service
+1427,W070,2021-04-02 10:00:00,3.2,Pressure issue
+1428,W070,2021-03-24 00:00:00,8.5,Pressure issue
+1429,W070,2021-01-11 17:00:00,2.4,Electrical issue
+1430,W070,2021-04-25 06:00:00,8.1,Electrical issue
+1431,W070,2022-09-23 00:00:00,6.9,Mechanical failure
+1432,W070,2022-01-15 19:00:00,12.1,Inspection
+1433,W070,2022-09-07 09:00:00,3.6,Pressure issue
+1434,W070,2022-02-02 11:00:00,14.7,Mechanical failure
+1435,W070,2023-12-29 00:00:00,5.6,Mechanical failure
+1436,W070,2023-08-14 00:00:00,10.3,Mechanical failure
+1437,W070,2023-07-30 21:00:00,5.2,Mechanical failure
+1438,W071,2020-09-19 13:00:00,4.7,Mechanical failure
+1439,W071,2020-11-18 01:00:00,20.7,Electrical issue
+1440,W071,2020-02-07 20:00:00,13.9,
+1441,W071,2021-02-16 01:00:00,6.3,Inspection
+1442,W071,2021-07-15 14:00:00,16.4,Routine service
+1443,W071,2021-08-07 12:00:00,6.8,Routine service
+1444,W071,2022-04-01 14:00:00,12.1,Mechanical failure
+1445,W071,2022-05-28 18:00:00,4.6,Mechanical failure
+1446,W071,2022-11-21 01:00:00,7.9,Mechanical failure
+1447,W071,2023-09-24 22:00:00,3.7,Electrical issue
+1448,W071,2023-04-09 01:00:00,8.6,Routine service
+1449,W071,2023-02-01 06:00:00,4.9,Pressure issue
+1450,W071,2023-08-01 05:00:00,19.9,Electrical issue
+1451,W071,2023-04-13 12:00:00,12.7,Routine service
+1452,W072,2020-10-22 03:00:00,22.0,Inspection
+1453,W072,2020-12-23 11:00:00,14.3,Inspection
+1454,W072,2020-06-24 14:00:00,12.7,Inspection
+1455,W072,2020-12-25 14:00:00,6.5,Inspection
+1456,W072,2020-10-15 14:00:00,4.6,Pressure issue
+1457,W072,2021-11-29 02:00:00,7.5,Routine service
+1458,W072,2021-11-14 10:00:00,8.0,Electrical issue
+1459,W072,2021-03-11 22:00:00,5.1,Mechanical failure
+1460,W072,2021-08-25 15:00:00,5.0,Unknown
+1461,W072,2021-01-02 23:00:00,13.4,Pressure issue
+1462,W072,2021-07-20 03:00:00,3.4,Routine service
+1463,W072,2021-03-21 23:00:00,15.8,Electrical issue
+1464,W072,2022-07-23 11:00:00,10.6,Pressure issue
+1465,W072,2022-06-29 16:00:00,18.5,Mechanical failure
+1466,W072,2022-10-19 23:00:00,7.9,Inspection
+1467,W072,2022-08-07 01:00:00,17.7,Mechanical failure
+1468,W072,2022-09-28 10:00:00,10.3,Pressure issue
+1469,W072,2022-06-02 00:00:00,8.5,Electrical issue
+1470,W072,2023-08-29 00:00:00,5.7,Inspection
+1471,W072,2023-08-12 20:00:00,3.7,Mechanical failure
+1472,W072,2023-12-03 14:00:00,8.8,Electrical issue
+1473,W072,2023-02-13 05:00:00,14.8,Mechanical failure
+1474,W072,2023-04-13 07:00:00,5.8,Inspection
+1475,W072,2023-04-21 07:00:00,6.7,Unknown
+1476,W073,2020-02-17 17:00:00,8.5,Inspection
+1477,W073,2020-08-07 01:00:00,12.1,Mechanical failure
+1478,W073,2020-10-01 00:00:00,18.6,Mechanical failure
+1479,W073,2020-06-27 14:00:00,4.3,Electrical issue
+1480,W073,2020-08-03 14:00:00,11.4,Routine service
+1481,W073,2020-03-20 14:00:00,5.7,Inspection
+1482,W073,2020-08-24 03:00:00,7.8,Electrical issue
+1483,W073,2021-08-24 11:00:00,3.1,Electrical issue
+1484,W073,2021-01-21 04:00:00,5.8,Electrical issue
+1485,W073,2021-04-30 22:00:00,9.9,Routine service
+1486,W073,2021-08-18 09:00:00,5.6,Electrical issue
+1487,W073,2021-12-21 07:00:00,9.1,Routine service
+1488,W073,2021-01-18 01:00:00,6.2,Unknown
+1489,W073,2022-08-29 04:00:00,11.0,Routine service
+1490,W073,2022-05-23 16:00:00,5.8,Unknown
+1491,W073,2022-07-15 11:00:00,15.1,Mechanical failure
+1492,W073,2022-07-11 15:00:00,17.8,Routine service
+1493,W073,2023-04-29 23:00:00,22.0,Mechanical failure
+1494,W073,2023-01-25 12:00:00,5.5,Mechanical failure
+1495,W073,2023-01-20 11:00:00,6.8,Pressure issue
+1496,W073,2023-10-04 12:00:00,5.4,Inspection
+1497,W073,2023-05-29 16:00:00,4.2,Mechanical failure
+1498,W074,2020-05-24 05:00:00,22.0,Inspection
+1499,W074,2020-04-13 10:00:00,6.3,Electrical issue
+1500,W074,2020-03-16 02:00:00,6.8,Inspection
+1501,W074,2020-04-24 06:00:00,22.0,Mechanical failure
+1502,W074,2020-09-19 23:00:00,6.3,Mechanical failure
+1503,W074,2021-02-20 13:00:00,11.2,Mechanical failure
+1504,W074,2021-03-03 15:00:00,4.0,Mechanical failure
+1505,W074,2021-12-02 22:00:00,3.5,Pressure issue
+1506,W074,2021-02-19 18:00:00,8.7,Electrical issue
+1507,W074,2021-07-20 15:00:00,12.2,Routine service
+1508,W074,2021-01-12 14:00:00,3.9,Routine service
+1509,W074,2021-01-05 08:00:00,7.0,Mechanical failure
+1510,W074,2022-08-09 00:00:00,6.4,Mechanical failure
+1511,W074,2022-03-15 16:00:00,15.5,Mechanical failure
+1512,W074,2022-02-06 14:00:00,4.8,Routine service
+1513,W074,2023-05-04 22:00:00,10.2,Unknown
+1514,W074,2023-12-27 22:00:00,7.7,
+1515,W074,2023-04-06 21:00:00,8.3,Pressure issue
+1516,W074,2023-10-15 08:00:00,5.1,Electrical issue
+1517,W074,2023-03-27 07:00:00,3.8,Mechanical failure
+1518,W074,2023-12-13 09:00:00,4.3,Electrical issue
+1519,W074,2023-12-25 15:00:00,10.8,Electrical issue
+1520,W075,2020-03-18 08:00:00,3.8,Mechanical failure
+1521,W075,2020-02-04 17:00:00,19.1,Pressure issue
+1522,W075,2020-07-09 12:00:00,4.8,Pressure issue
+1523,W075,2020-08-30 02:00:00,7.2,Unknown
+1524,W075,2020-11-11 10:00:00,11.2,Electrical issue
+1525,W075,2020-09-26 09:00:00,9.8,Mechanical failure
+1526,W075,2020-08-01 04:00:00,10.0,Routine service
+1527,W075,2021-03-26 04:00:00,5.9,Routine service
+1528,W075,2021-05-02 02:00:00,8.5,Electrical issue
+1529,W075,2021-05-03 04:00:00,5.2,Routine service
+1530,W075,2022-08-16 13:00:00,6.7,Inspection
+1531,W075,2022-05-14 10:00:00,6.7,Electrical issue
+1532,W075,2022-10-12 19:00:00,14.6,Electrical issue
+1533,W075,2022-01-10 11:00:00,5.4,Routine service
+1534,W075,2023-02-18 17:00:00,8.7,Inspection
+1535,W075,2023-09-02 01:00:00,6.0,Mechanical failure
+1536,W075,2023-10-27 18:00:00,14.3,Mechanical failure
+1537,W075,2023-09-14 00:00:00,4.5,Electrical issue
+1538,W075,2023-08-17 12:00:00,10.6,Electrical issue
+1539,W075,2023-05-06 05:00:00,10.2,Inspection
+1540,W075,2023-10-22 16:00:00,3.1,Pressure issue

@@ -1,0 +1,151 @@
+equipment_id,equipment_name,equipment_type,well_id,install_date
+EQ-0001,Compressor 001,Valve,W001,2013-02-15
+EQ-0002,Control System 002,Compressor,W001,2015-03-28
+EQ-0003,Valve 003,Compressor,W002,2018-10-14
+EQ-0004,Valve 004,Valve,W002,2017-01-03
+EQ-0005,Compressor 005,Compressor,W003,2017-12-12
+EQ-0006,Compressor 006,Compressor,W003,2015-07-06
+EQ-0007,Compressor 007,Control System,W004,2013-11-28
+EQ-0008,Separator 008,Generator,W004,2012-09-08
+EQ-0009,Valve 009,Pump,W005,2012-10-03
+EQ-0010,Valve 010,Compressor,W005,2017-11-24
+EQ-0011,Control System 011,Control System,W006,2013-01-15
+EQ-0012,Compressor 012,Compressor,W006,2015-12-17
+EQ-0013,Pump 013,Valve,W007,2018-06-25
+EQ-0014,Compressor 014,Control System,W007,2017-11-29
+EQ-0015,Control System 015,Control System,W008,2015-08-04
+EQ-0016,Compressor 016,Separator,W008,2012-07-27
+EQ-0017,Compressor 017,Compressor,W009,2012-03-28
+EQ-0018,Generator 018,Generator,W009,2016-08-24
+EQ-0019,Separator 019,Separator,W010,2016-10-19
+EQ-0020,Valve 020,Generator,W010,2012-08-22
+EQ-0021,Valve 021,Pump,W011,2012-06-21
+EQ-0022,Valve 022,Valve,W011,2017-03-31
+EQ-0023,Compressor 023,Pump,W012,2015-05-11
+EQ-0024,Generator 024,Compressor,W012,2017-10-21
+EQ-0025,Valve 025,Generator,W013,2014-06-11
+EQ-0026,Separator 026,Control System,W013,2015-03-03
+EQ-0027,Generator 027,Generator,W014,2016-02-12
+EQ-0028,Generator 028,Valve,W014,2014-01-27
+EQ-0029,Valve 029,Compressor,W015,2018-03-25
+EQ-0030,Separator 030,Control System,W015,2016-03-15
+EQ-0031,Compressor 031,Pump,W016,2016-08-07
+EQ-0032,Pump 032,Pump,W016,2013-09-25
+EQ-0033,Generator 033,Pump,W017,2013-06-21
+EQ-0034,Control System 034,Control System,W017,2017-02-19
+EQ-0035,Control System 035,Compressor,W018,2016-04-14
+EQ-0036,Pump 036,Generator,W018,2018-03-30
+EQ-0037,Control System 037,Separator,W019,2012-08-14
+EQ-0038,Control System 038,Generator,W019,2013-07-21
+EQ-0039,Separator 039,Compressor,W020,2014-04-15
+EQ-0040,Generator 040,Generator,W020,2018-02-14
+EQ-0041,Pump 041,Control System,W021,2016-04-05
+EQ-0042,Valve 042,Compressor,W021,2012-06-14
+EQ-0043,Valve 043,Valve,W022,2013-04-25
+EQ-0044,Generator 044,Separator,W022,2012-10-04
+EQ-0045,Control System 045,Valve,W023,2012-11-28
+EQ-0046,Separator 046,Separator,W023,2013-05-04
+EQ-0047,Separator 047,Pump,W024,2012-03-01
+EQ-0048,Generator 048,Separator,W024,2019-01-13
+EQ-0049,Control System 049,Compressor,W025,2014-08-17
+EQ-0050,Control System 050,Compressor,W025,2014-05-06
+EQ-0051,Control System 051,Control System,W026,2015-06-25
+EQ-0052,Compressor 052,Compressor,W026,2012-11-04
+EQ-0053,Valve 053,Generator,W027,2013-08-09
+EQ-0054,Compressor 054,Separator,W027,2014-06-30
+EQ-0055,Separator 055,Control System,W028,2013-02-06
+EQ-0056,Generator 056,Pump,W028,2014-12-26
+EQ-0057,Control System 057,Separator,W029,2016-06-22
+EQ-0058,Generator 058,Compressor,W029,2012-08-03
+EQ-0059,Valve 059,Pump,W030,2012-05-02
+EQ-0060,Generator 060,Generator,W030,2014-10-17
+EQ-0061,Pump 061,Control System,W031,2016-03-14
+EQ-0062,Control System 062,Control System,W031,2015-05-02
+EQ-0063,Pump 063,Compressor,W032,2012-11-12
+EQ-0064,Separator 064,Generator,W032,2016-10-15
+EQ-0065,Compressor 065,Control System,W033,2018-08-28
+EQ-0066,Separator 066,Control System,W033,2014-08-29
+EQ-0067,Generator 067,Compressor,W034,2015-02-14
+EQ-0068,Compressor 068,Pump,W034,2013-10-18
+EQ-0069,Separator 069,Compressor,W035,2018-03-13
+EQ-0070,Valve 070,Control System,W035,2017-02-21
+EQ-0071,Separator 071,Valve,W036,2016-01-25
+EQ-0072,Control System 072,Valve,W036,2018-04-16
+EQ-0073,Compressor 073,Compressor,W037,2013-04-28
+EQ-0074,Compressor 074,Generator,W037,2015-10-16
+EQ-0075,Valve 075,Generator,W038,2012-06-14
+EQ-0076,Compressor 076,Control System,W038,2014-01-31
+EQ-0077,Compressor 077,Separator,W039,2015-02-07
+EQ-0078,Separator 078,Generator,W039,2012-07-24
+EQ-0079,Valve 079,Pump,W040,2016-12-07
+EQ-0080,Control System 080,Valve,W040,2012-01-23
+EQ-0081,Control System 081,Separator,W041,2014-04-04
+EQ-0082,Pump 082,Separator,W041,2017-11-22
+EQ-0083,Valve 083,Generator,W042,2018-12-26
+EQ-0084,Control System 084,Pump,W042,2013-04-03
+EQ-0085,Compressor 085,Generator,W043,2015-12-01
+EQ-0086,Valve 086,Control System,W043,2012-03-23
+EQ-0087,Control System 087,Valve,W044,2016-05-02
+EQ-0088,Compressor 088,Control System,W044,2015-10-20
+EQ-0089,Valve 089,Pump,W045,2015-01-22
+EQ-0090,Generator 090,Compressor,W045,2017-07-06
+EQ-0091,Compressor 091,Control System,W046,2013-11-05
+EQ-0092,Pump 092,Pump,W046,2015-02-07
+EQ-0093,Compressor 093,Generator,W047,2018-03-09
+EQ-0094,Compressor 094,Control System,W047,2015-04-27
+EQ-0095,Valve 095,Separator,W048,2012-11-30
+EQ-0096,Valve 096,Pump,W048,2014-11-12
+EQ-0097,Compressor 097,Compressor,W049,2014-05-16
+EQ-0098,Generator 098,Compressor,W049,2019-01-10
+EQ-0099,Compressor 099,Compressor,W050,2015-09-30
+EQ-0100,Control System 100,Control System,W050,2014-03-14
+EQ-0101,Separator 101,Valve,W051,2018-12-30
+EQ-0102,Valve 102,Valve,W051,2018-12-11
+EQ-0103,Generator 103,Separator,W052,2018-09-02
+EQ-0104,Separator 104,Generator,W052,2015-07-07
+EQ-0105,Valve 105,Valve,W053,2014-09-28
+EQ-0106,Control System 106,Control System,W053,2012-03-12
+EQ-0107,Control System 107,Compressor,W054,2018-08-01
+EQ-0108,Control System 108,Pump,W054,2016-04-16
+EQ-0109,Generator 109,Compressor,W055,2013-05-11
+EQ-0110,Control System 110,Valve,W055,2012-08-22
+EQ-0111,Valve 111,Valve,W056,2013-07-10
+EQ-0112,Control System 112,Pump,W056,2013-01-27
+EQ-0113,Control System 113,Pump,W057,2013-08-10
+EQ-0114,Valve 114,Separator,W057,2013-05-03
+EQ-0115,Pump 115,Pump,W058,2014-06-28
+EQ-0116,Valve 116,Separator,W058,2013-07-08
+EQ-0117,Generator 117,Compressor,W059,2012-05-14
+EQ-0118,Generator 118,Compressor,W059,2016-01-10
+EQ-0119,Valve 119,Control System,W060,2017-06-25
+EQ-0120,Pump 120,Separator,W060,2016-01-28
+EQ-0121,Separator 121,Generator,W061,2012-02-20
+EQ-0122,Generator 122,Pump,W061,2014-11-23
+EQ-0123,Generator 123,Valve,W062,2016-09-10
+EQ-0124,Pump 124,Valve,W062,2013-11-13
+EQ-0125,Compressor 125,Pump,W063,2014-05-10
+EQ-0126,Compressor 126,Valve,W063,2016-06-13
+EQ-0127,Compressor 127,Generator,W064,2015-01-22
+EQ-0128,Valve 128,Generator,W064,2016-11-22
+EQ-0129,Control System 129,Compressor,W065,2016-03-23
+EQ-0130,Valve 130,Compressor,W065,2016-11-28
+EQ-0131,Valve 131,Valve,W066,2015-10-02
+EQ-0132,Valve 132,Separator,W066,2016-02-07
+EQ-0133,Control System 133,Generator,W067,2018-02-20
+EQ-0134,Pump 134,Compressor,W067,2018-03-27
+EQ-0135,Generator 135,Separator,W068,2013-05-06
+EQ-0136,Compressor 136,Control System,W068,2015-03-26
+EQ-0137,Separator 137,Valve,W069,2013-09-20
+EQ-0138,Generator 138,Control System,W069,2017-07-27
+EQ-0139,Control System 139,Generator,W070,2013-10-08
+EQ-0140,Pump 140,Pump,W070,2012-01-29
+EQ-0141,Valve 141,Compressor,W071,2012-12-16
+EQ-0142,Valve 142,Compressor,W071,2017-11-15
+EQ-0143,Control System 143,Separator,W072,2016-03-10
+EQ-0144,Valve 144,Compressor,W072,2017-05-26
+EQ-0145,Control System 145,Control System,W073,2015-09-03
+EQ-0146,Control System 146,Pump,W073,2014-04-26
+EQ-0147,Separator 147,Generator,W074,2014-11-21
+EQ-0148,Valve 148,Control System,W074,2013-09-23
+EQ-0149,Valve 149,Valve,W075,2013-09-29
+EQ-0150,Control System 150,Valve,W075,2013-05-16
